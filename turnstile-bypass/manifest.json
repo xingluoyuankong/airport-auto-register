@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Turnstile Bypass - Airport Register",
+    "version": "4.0",
+    "description": "10-layer Cloudflare Turnstile bypass for airport registration automation. Patches MouseEvent/PointerEvent screenX/Y, navigator.webdriver, userAgentData, canvas fingerprint, WebGL, plugins, chrome.runtime, permissions.",
+    "content_scripts": [
+        {
+            "js": ["./script.js"],
+            "matches": ["<all_urls>"],
+            "run_at": "document_start",
+            "all_frames": true,
+            "world": "MAIN"
+        }
+    ]
+}
