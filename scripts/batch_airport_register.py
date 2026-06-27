@@ -141,7 +141,7 @@ def register_one(browser, airport, email, token_info):
         
         if not email_input:
             result["error"] = "找不到邮箱输入框"
-            print(f"[{name}] ❌ {result['error']}")
+            print(f"[{name}] [FAIL] {result['error']}")
             page.close()
             return result
         
@@ -150,7 +150,7 @@ def register_one(browser, airport, email, token_info):
         page.wait_for_timeout(500)
         email_input.fill(email)
         page.wait_for_timeout(500)
-        print(f"[{name}] ✓ 填入邮箱: {email}")
+        print(f"[{name}] [v] 填入邮箱: {email}")
         
         # 5. 填密码
         for pw in pw_inputs[:2]:
@@ -160,7 +160,7 @@ def register_one(browser, airport, email, token_info):
             except:
                 pass
         if pw_inputs:
-            print(f"[{name}] ✓ 填入密码")
+            print(f"[{name}] [v] 填入密码")
         
         # 6. 判断是否需要验证码 - 找发送验证码按钮
         send_btn = page.query_selector(
@@ -176,7 +176,7 @@ def register_one(browser, airport, email, token_info):
                 send_btn.click()
                 page.wait_for_timeout(2000)
                 needs_code = True
-                print(f"[{name}] ✓ 点击发送验证码")
+                print(f"[{name}] [v] 点击发送验证码")
             except:
                 pass
         
@@ -212,14 +212,14 @@ def register_one(browser, airport, email, token_info):
                     page.wait_for_timeout(300)
                     code_input.fill(code)
                     page.wait_for_timeout(500)
-                    print(f"[{name}] ✓ 填入验证码: {code}")
+                    print(f"[{name}] [v] 填入验证码: {code}")
                 else:
-                    print(f"[{name}] ⚠️ 收到验证码{code}但找不到输入框")
+                    print(f"[{name}] [WARN] 收到验证码{code}但找不到输入框")
                     result["error"] = f"有验证码{code}无输入框"
                     page.close()
                     return result
             else:
-                print(f"[{name}] ⚠️ 未收到验证码: {err}")
+                print(f"[{name}] [WARN] 未收到验证码: {err}")
                 # 尝试不填验证码直接提交（有些机场不需要）
         
         # 8. 找注册/提交按钮并点击
@@ -243,7 +243,7 @@ def register_one(browser, airport, email, token_info):
             try:
                 reg_btn.click()
                 page.wait_for_timeout(5000)
-                print(f"[{name}] ✓ 点击注册按钮")
+                print(f"[{name}] [v] 点击注册按钮")
             except Exception as e:
                 print(f"[{name}] 点击注册按钮失败: {e}")
         
@@ -260,7 +260,7 @@ def register_one(browser, airport, email, token_info):
         
         if is_success or (not is_fail and "register" not in final_url.lower()):
             result["success"] = True
-            print(f"[{name}] ✅ 注册成功!")
+            print(f"[{name}] [OK] 注册成功!")
             
             # 提取订阅链接
             try:
@@ -297,7 +297,7 @@ def register_one(browser, airport, email, token_info):
             except:
                 pass
         else:
-            print(f"[{name}] ❌ 注册未成功")
+            print(f"[{name}] [FAIL] 注册未成功")
             err_line = final_body[:200]
             result["error"] = err_line
             try:
@@ -308,7 +308,7 @@ def register_one(browser, airport, email, token_info):
         
     except Exception as e:
         result["error"] = str(e)[:300]
-        print(f"[{name}] ❌ 异常: {e}")
+        print(f"[{name}] [FAIL] 异常: {e}")
         try:
             ss_path = os.path.join(OUTPUT_DIR, f"{name}_error.png")
             page.screenshot(path=ss_path)
@@ -321,13 +321,13 @@ def register_one(browser, airport, email, token_info):
 
 def main():
     if not ALL_TOKENS:
-        print("❌ 没有可用的Outlook Token!")
+        print("[FAIL] 没有可用的Outlook Token!")
         return
     
-    print(f"🚀 批量机场注册引擎启动")
-    print(f"可用邮箱Token: {len(ALL_TOKENS)}个")
-    print(f"待注册机场: {len(AIRPORTS)}个")
-    print(f"密码: {PASSWORD}")
+    print(f"[START] Batch airport register engine")
+    print(f"Available tokens: {len(ALL_TOKENS)}")
+    print(f"Target airports: {len(AIRPORTS)}")
+    print(f"Password: {PASSWORD}")
     
     results = []
     success_count = 0
@@ -342,7 +342,7 @@ def main():
         for i, airport in enumerate(AIRPORTS):
             email, token_info = get_next_email()
             if not email:
-                print("❌ 没有可用的邮箱了!")
+                print("[FAIL] 没有可用的邮箱了!")
                 break
             
             print(f"\n[{i+1}/{len(AIRPORTS)}] {airport['name']} ← {email}")
@@ -364,15 +364,15 @@ def main():
     
     # 最终汇总
     print(f"\n{'='*60}")
-    print(f"📊 注册汇总: 成功{success_count}/{len(AIRPORTS)}")
+    print(f"[SUM] 注册汇总: 成功{success_count}/{len(AIRPORTS)}")
     
     success_list = [r for r in results if r["success"]]
-    print(f"\n✅ 成功列表:")
+    print(f"\n[OK] 成功列表:")
     for r in success_list:
         print(f"  {r['name']} | {r['email']} | {r.get('subscribe_url', '无订阅')}")
     
     fail_list = [r for r in results if not r["success"]]
-    print(f"\n❌ 失败列表:")
+    print(f"\n[FAIL] 失败列表:")
     for r in fail_list:
         print(f"  {r['name']} | {r.get('error', '未知')}")
     

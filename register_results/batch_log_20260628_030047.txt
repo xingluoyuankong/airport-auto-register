@@ -1,0 +1,114 @@
+[03:00:47] ==================================================
+[03:00:47] BATCH v4 START - 14 tokens, 34 targets
+[03:00:48] [1/34] 极光加速 <- bushuozaijian2026@outlook.com
+[03:00:48] [极光加速] START | 2天10G | bushuozaijian2026@outlook.com
+[03:00:53] [极光加速] URL=https://jgjs02.com/#/register
+[03:00:53] [极光加速] Filled email
+[03:00:53] [极光加速] PW: 2
+[03:00:54] [极光加速] Waiting code (90s)...
+[03:00:57] [极光加速] Code: 202025
+[03:00:57] [极光加速] Clicked submit
+[03:01:02] [极光加速] FAIL: 注册账号
+
+成功注册即可获取2天试用体验.
+
+@gmail.com
+@qq.com
+@icloud.com
+@foxmail.com
+@yahoo.com
+@s
+[03:01:03] [2/34] FSCloud <- fishehen5k5rv2xvyirw@outlook.com
+[03:01:03] [FSCloud] START | 3天10G | fishehen5k5rv2xvyirw@outlook.com
+[03:01:06] [FSCloud] URL=https://dash.fscloud.cc/#/register
+[03:01:06] [FSCloud] SKIP: MS email rejected, needs ['@gmail.com', '@qq.com', '@163.com']
+[03:01:07] [3/34] cd520 <- floraide3rb1508k2xlbbi@hotmail.com
+[03:01:08] [cd520] START | 3天5G | floraide3rb1508k2xlbbi@hotmail.com
+[03:01:11] [cd520] URL=https://cd520.xyz/#/register
+[03:01:11] [cd520] Filled email
+[03:01:12] [cd520] PW: 2
+[03:01:12] [cd520] Waiting code (90s)...
+[03:01:16] [cd520] Code: 202020
+[03:01:16] [cd520] Clicked submit
+[03:01:21] [cd520] FAIL: cd1314.xyz
+
+官方tg群https://t.me/nivpn，最新地址 help.cd520.xyz
+
+@qq.com
+@163.com
+@gmail
+[03:01:22] [4/34] Mickey <- kebukeyi2026@outlook.com
+[03:01:22] [Mickey] START | 3天2G | kebukeyi2026@outlook.com
+[03:01:23] [Mickey] NAV: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.mickey.business/#/register
+
+[03:01:30] [Mickey] URL=chrome-error://chromewebdata/
+[03:01:30] [Mickey] FAIL: no email input
+[03:01:31] [5/34] 农夫山泉 <- landsanchehrqvrw49590ycpji@outlook.com
+[03:01:31] [农夫山泉] START | 2天1G | landsanchehrqvrw49590ycpji@outlook.com
+[03:01:40] [农夫山泉] URL=http://ww17.sp.nfsq.me/
+[03:01:40] [农夫山泉] FAIL: no email input
+[03:01:41] [6/34] cocolink <- mallenbb9qdjidg9y5tw1yqd@outlook.com
+[03:01:42] [cocolink] START | 7天64G | mallenbb9qdjidg9y5tw1yqd@outlook.com
+[03:01:42] [cocolink] NAV: Page.goto: net::ERR_CONNECTION_CLOSED at https://cocolink.org/#/register
+Call lo
+[03:01:49] [cocolink] URL=chrome-error://chromewebdata/
+[03:01:49] [cocolink] FAIL: no email input
+[03:01:50] [7/34] alori <- mx1282f1687e@outlook.com
+[03:01:50] [alori] START | 6天50G | mx1282f1687e@outlook.com
+[03:02:00] [alori] URL=chrome-error://chromewebdata/
+[03:02:00] [alori] FAIL: no email input
+[03:02:01] [8/34] aimacloud <- mx40f8e7ef94@outlook.com
+[03:02:01] [aimacloud] START | 6天20G | mx40f8e7ef94@outlook.com
+[03:02:10] [aimacloud] URL=https://www.aimacloud.info/#/register
+[03:02:10] [aimacloud] FAIL: no email input
+[03:02:11] [9/34] Synapse <- mx4496f269fa@hotmail.com
+[03:02:11] [Synapse] START | 3天5G | mx4496f269fa@hotmail.com
+[03:02:11] [Synapse] NAV: Page.goto: net::ERR_CONNECTION_CLOSED at https://user.xinna.co/#/register
+Call l
+[03:02:18] [Synapse] URL=chrome-error://chromewebdata/
+[03:02:18] [Synapse] FAIL: no email input
+[03:02:19] [10/34] 难民机场 <- mx738945e98b@outlook.com
+[03:02:19] [难民机场] START | 2天5G | mx738945e98b@outlook.com
+[03:02:23] [难民机场] URL=https://202601.72.chat/2026?nanmin.xyz#/register
+[03:02:23] [难民机场] FAIL: no email input
+[03:02:24] [11/34] BBQ烧烤店 <- mx9433499602@outlook.com
+[03:02:24] [BBQ烧烤店] START | 7天10G | mx9433499602@outlook.com
+[03:02:44] [BBQ烧烤店] URL=http://ww547.qiaoxbbq.com/#/register
+[03:02:44] [BBQ烧烤店] FAIL: no email input
+[03:02:46] [12/34] 猫熊网络 <- mxc60da9b316@hotmail.com
+[03:02:46] [猫熊网络] START | 3天5G | mxc60da9b316@hotmail.com
+[03:02:54] [猫熊网络] URL=https://mxwljsq.xyz/v3/#/auth/register
+[03:02:54] [猫熊网络] FAIL: no email input
+[03:02:55] [13/34] 纵横加速 <- mxih36u8zfmxj42v75fid@outlook.com
+[03:02:55] [纵横加速] START | 7天2G | mxih36u8zfmxj42v75fid@outlook.com
+[03:03:04] [纵横加速] URL=https://www.okvpn.cc/#/register
+[03:03:04] [纵横加速] FAIL: no email input
+[03:03:05] [14/34] JetFast <- reedemma531lj7zord2i0uok@outlook.com
+[03:03:05] [JetFast] START | 1月5G | reedemma531lj7zord2i0uok@outlook.com
+[03:03:06] [JetFast] NAV: Page.goto: net::ERR_CONNECTION_CLOSED at https://my.jetfast.dev/#/register
+Call 
+[03:03:13] [JetFast] URL=chrome-error://chromewebdata/
+[03:03:13] [JetFast] FAIL: no email input
+[03:03:14] [15/34] sockboom <- bushuozaijian2026@outlook.com
+[03:03:14] [sockboom] START | 1天1G | bushuozaijian2026@outlook.com
+[03:03:25] [sockboom] URL=http://ww1.sockboom.love/
+[03:03:25] [sockboom] FAIL: no email input
+[03:03:26] [16/34] KELECLOUD <- fishehen5k5rv2xvyirw@outlook.com
+[03:03:26] [KELECLOUD] START | 1天1G | fishehen5k5rv2xvyirw@outlook.com
+[03:03:28] [KELECLOUD] NAV: Page.goto: net::ERR_CONNECTION_CLOSED at https://panel.keleofficial.com/#/regist
+[03:03:36] [KELECLOUD] URL=chrome-error://chromewebdata/
+[03:03:36] [KELECLOUD] FAIL: no email input
+[03:03:37] [17/34] 大牛机场 <- floraide3rb1508k2xlbbi@hotmail.com
+[03:03:37] [大牛机场] START | 1h1G | floraide3rb1508k2xlbbi@hotmail.com
+[03:03:38] [大牛机场] NAV: Page.goto: net::ERR_CONNECTION_CLOSED at https://daniu.e300daniu.top/#/register
+
+[03:03:45] [大牛机场] URL=chrome-error://chromewebdata/
+[03:03:45] [大牛机场] FAIL: no email input
+[03:03:46] [18/34] proxyvip <- kebukeyi2026@outlook.com
+[03:03:46] [proxyvip] START | 1G/天 | kebukeyi2026@outlook.com
+[03:03:57] [proxyvip] NAV: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.proxyvip.xyz/#/register
+Cal
+[03:04:04] [proxyvip] URL=chrome-error://chromewebdata/
+[03:04:04] [proxyvip] FAIL: no email input
+[03:04:05] [19/34] 青森云 <- landsanchehrqvrw49590ycpji@outlook.com
+[03:04:05] [青森云] START | 6小时 | landsanchehrqvrw49590ycpji@outlook.com

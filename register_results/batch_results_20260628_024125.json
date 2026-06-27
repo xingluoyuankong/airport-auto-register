@@ -1,0 +1,10 @@
+[
+  {
+    "name": "ikuuu",
+    "url": "https://ikuuu.me/",
+    "free": "50G永久",
+    "email": "bushuozaijian2026@outlook.com",
+    "success": false,
+    "error": "'gbk' codec can't encode character '\\U0001f310' in position 14: illegal multibyte sequence"
+  }
+]

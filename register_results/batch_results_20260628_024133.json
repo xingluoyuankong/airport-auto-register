@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ikuuu",
+    "url": "https://ikuuu.me/",
+    "free": "50G永久",
+    "email": "bushuozaijian2026@outlook.com",
+    "success": false,
+    "error": "'gbk' codec can't encode character '\\U0001f310' in position 14: illegal multibyte sequence"
+  },
+  {
+    "name": "qlgq",
+    "url": "https://www.qlgq.top/auth/register",
+    "free": "7天888G",
+    "email": "fishehen5k5rv2xvyirw@outlook.com",
+    "success": false,
+    "error": "Page.goto: net::ERR_CONNECTION_CLOSED at https://www.qlgq.top/auth/register\nCall log:\n  - navigating to \"https://www.qlgq.top/auth/register\", waiting until \"networkidle\"\n"
+  }
+]

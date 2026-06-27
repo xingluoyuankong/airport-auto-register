@@ -1,0 +1,59 @@
+[02:56:36] ==================================================
+[02:56:36] BATCH REGISTER v3 START - Tokens:14 Targets:3
+[02:56:38] [1/3] 极光加速 <- bushuozaijian2026@outlook.com
+[02:56:39] [极光加速] START | 2天10G | bushuozaijian2026@outlook.com | https://jgjs02.com/#/register
+[02:56:59] [极光加速] NAV ERR: Page.goto: Timeout 20000ms exceeded.
+Call log:
+  - navigating to "https://jgjs02.com/#/register", wa
+[02:57:02] [极光加速] URL=https://jgjs02.com/#/register
+[02:57:02] [极光加速] FAIL: no email input
+[02:57:04] [2/3] besnow <- fishehen5k5rv2xvyirw@outlook.com
+[02:57:04] [besnow] START | 3天9G | fishehen5k5rv2xvyirw@outlook.com | https://besnow.me/index.php#/register
+[02:57:16] [besnow] URL=https://besnow.me/index.php#/register
+[02:57:17] [besnow] Filled email
+[02:57:17] [besnow] Filled 2 pw
+[02:57:17] [besnow] Code input detected
+[02:57:17] [besnow] Waiting code (90s)...
+[02:57:22] [besnow] Filled code: 202025
+[02:57:52] [besnow] Submit err: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text('注册')").first
+    - locator resolved to <button disabled type="submit" class="btn btn-block btn-primary font-w400">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+      - waiting 100ms
+    58 × waiting for element to be visible, enabled and stable
+       - element is not enabled
+     - retrying click action
+       - waiting 500ms
+
+[02:57:52] [besnow] FAIL: 让你的网络无界限
+
+@gmail.com
+@qq.com
+@163.com
+@126.com
+@foxmail.com
+@icloud.com
+发送
+我已阅读并同意 服务条款
+注册
+返回登入
+简体中文
+[02:57:54] [3/3] TaiShan Net <- floraide3rb1508k2xlbbi@hotmail.com
+[02:57:55] [TaiShan Net] START | 7天10G | floraide3rb1508k2xlbbi@hotmail.com | https://www.taishan.pro/#/register
+[02:57:58] [TaiShan Net] NAV ERR: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://www.
+[02:57:58] [TaiShan Net] URL=https://www.taishan.pro/#/register
+[02:57:58] [TaiShan Net] EXC: Locator.count: Target page, context or browser has been closed
+[02:58:00] 
+=== FINAL: 0/3 success ===
+[02:58:00] Results: E:\API获取工具\自动集成免费代理服务\01-机场VPN注册机\scripts\..\register_results\batch_register_results.jsonl
+[02:58:00] Log: E:\API获取工具\自动集成免费代理服务\01-机场VPN注册机\scripts\..\register_results\batch_log_20260628_025636.txt
