@@ -1,0 +1,113 @@
+﻿[
+    {
+        "name":  "FSCloud",
+        "status":  "error",
+        "error":  "远程服务器返回错误: (403) 已禁止。"
+    },
+    {
+        "name":  "69云",
+        "status":  "V2Board_API",
+        "needs_invite":  false,
+        "needs_email_code":  false,
+        "preview":  "\u003c!DOCTYPE html\u003e \u003chtml lang=\"en\"\u003e \u003chead\u003e \u003ctitle\u003e注 \u0026mdash; \u003c/title\u003e \u003cmeta charset=\"UTF-8\"/\u003e \u003cmeta name=\"renderer\" content=\"webkit\"/\u003e \u003cmeta name=\"description\" content=\"快如闪电，同享4K视觉盛宴，低"
+    },
+    {
+        "name":  "奈云v2ny",
+        "status":  "error",
+        "error":  "远程服务器返回错误: (405) 不允许的方法。"
+    },
+    {
+        "name":  "Speedy",
+        "status":  "error",
+        "error":  "远程服务器返回错误: (405) 不允许的方法。"
+    },
+    {
+        "name":  "雨燕云",
+        "status":  "error",
+        "error":  "远程服务器返回错误: (405) 不允许的方法。"
+    },
+    {
+        "name":  "qlgq",
+        "status":  "error",
+        "error":  "基础连接已经关闭: 发送时发生错误。"
+    },
+    {
+        "name":  "大哥云",
+        "status":  "404",
+        "error":  "404 NotFound"
+    },
+    {
+        "name":  "极客加速",
+        "status":  "error",
+        "error":  "远程服务器返回错误: (429) Too Many Requests。"
+    },
+    {
+        "name":  "tly",
+        "status":  "timeout",
+        "error":  "操作超时"
+    },
+    {
+        "name":  "GLaDOS",
+        "status":  "V2Board_API",
+        "needs_invite":  false,
+        "needs_email_code":  false,
+        "preview":  "{\"code\":-2,\"message\":\"没有权限\"}"
+    },
+    {
+        "name":  "盛丰",
+        "status":  "error",
+        "error":  "基础连接已经关闭: 发送时发生错误。"
+    },
+    {
+        "name":  "逗猫",
+        "status":  "error",
+        "error":  "远程服务器返回错误: (405) 不允许的方法。"
+    },
+    {
+        "name":  "魔戒",
+        "status":  "error",
+        "error":  "远程服务器返回错误: (403) 已禁止。"
+    },
+    {
+        "name":  "狗头加速",
+        "status":  "error",
+        "error":  "远程服务器返回错误: (403) 已禁止。"
+    },
+    {
+        "name":  "速云",
+        "status":  "404",
+        "error":  "404 NotFound"
+    },
+    {
+        "name":  "一元机场",
+        "status":  "error",
+        "error":  "远程服务器返回错误: (403) 已禁止。"
+    },
+    {
+        "name":  "xqc",
+        "status":  "404",
+        "error":  "404 NotFound"
+    },
+    {
+        "name":  "besnow",
+        "status":  "error",
+        "error":  "远程服务器返回错误: (403) 已禁止。"
+    },
+    {
+        "name":  "极光加速",
+        "status":  "404",
+        "error":  "404 NotFound"
+    },
+    {
+        "name":  "泰山",
+        "status":  "V2Board_API",
+        "needs_invite":  false,
+        "needs_email_code":  false,
+        "preview":  "\u003chtml\u003e\u003chead\u003e\u003clink rel=\"icon\" href=\"data:;base64,=\"\u003e\u003c/head\u003e\u003cbody\u003e\u003cscript type=\"text/javascript\"\u003efunction getRL(){var rL =(new Date().getMonth()+1).toString()+new Date().getDate().toString();return rL;}"
+    },
+    {
+        "name":  "泰山Net",
+        "status":  "error",
+        "error":  "远程服务器返回错误: (405) 不允许的方法。"
+    }
+]

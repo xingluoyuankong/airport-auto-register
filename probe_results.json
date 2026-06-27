@@ -1,0 +1,274 @@
+[
+  {
+    "name": "FSCloud",
+    "url": "https://dash.fscloud.app",
+    "alive": false,
+    "registerable": false,
+    "needs_verify": false,
+    "needs_invite": false,
+    "has_free_trial": false,
+    "msg": "连接失败: HTTPSConnectionPool(host='dash.fscloud.app', port=443): Max "
+  },
+  {
+    "name": "奈云v2ny",
+    "url": "https://www.v2ny.com",
+    "alive": false,
+    "registerable": false,
+    "needs_verify": false,
+    "needs_invite": false,
+    "has_free_trial": false,
+    "msg": "连接失败: HTTPSConnectionPool(host='www.v2ny.com', port=443): Max retr"
+  },
+  {
+    "name": "Speedy",
+    "url": "https://cloud.speedypro.xyz",
+    "alive": true,
+    "registerable": true,
+    "needs_verify": true,
+    "needs_invite": false,
+    "has_free_trial": true,
+    "msg": "验证码有误",
+    "get_status": 405,
+    "post_status": 500
+  },
+  {
+    "name": "雨燕云",
+    "url": "https://yuyan.online",
+    "alive": false,
+    "registerable": false,
+    "needs_verify": false,
+    "needs_invite": false,
+    "has_free_trial": false,
+    "msg": "超时"
+  },
+  {
+    "name": "逗猫",
+    "url": "https://doucat.top",
+    "alive": false,
+    "registerable": false,
+    "needs_verify": false,
+    "needs_invite": false,
+    "has_free_trial": false,
+    "msg": "连接失败: HTTPSConnectionPool(host='doucat.top', port=443): Max retrie"
+  },
+  {
+    "name": "泰山Net",
+    "url": "https://www.taishan.pro",
+    "alive": false,
+    "registerable": false,
+    "needs_verify": false,
+    "needs_invite": false,
+    "has_free_trial": false,
+    "msg": "连接失败: HTTPSConnectionPool(host='www.taishan.pro', port=443): Max r"
+  },
+  {
+    "name": "一元机场",
+    "url": "https://xn--4gq62f52gdss.top",
+    "alive": false,
+    "registerable": false,
+    "needs_verify": false,
+    "needs_invite": false,
+    "has_free_trial": false,
+    "msg": "连接失败: HTTPSConnectionPool(host='xn--4gq62f52gdss.top', port=443): "
+  },
+  {
+    "name": "魔戒",
+    "url": "https://www.mojie.me",
+    "alive": false,
+    "registerable": false,
+    "needs_verify": false,
+    "needs_invite": false,
+    "has_free_trial": false,
+    "msg": "连接失败: HTTPSConnectionPool(host='www.mojie.me', port=443): Max retr"
+  },
+  {
+    "name": "狗头加速",
+    "url": "https://lksi.xyz",
+    "alive": true,
+    "registerable": false,
+    "needs_verify": false,
+    "needs_invite": false,
+    "has_free_trial": false,
+    "msg": "<html><body><h1>403 Forbidden</h1>\nRequest forbidden by administrative rules.\n</body></html>\n",
+    "get_status": 403,
+    "post_status": 403
+  },
+  {
+    "name": "极光加速",
+    "url": "https://jiguang.pro",
+    "alive": false,
+    "registerable": false,
+    "needs_verify": false,
+    "needs_invite": false,
+    "has_free_trial": false,
+    "msg": "连接失败: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关"
+  },
+  {
+    "name": "besnow",
+    "url": "https://besnow.me",
+    "alive": false,
+    "registerable": false,
+    "needs_verify": false,
+    "needs_invite": false,
+    "has_free_trial": false,
+    "msg": "连接失败: HTTPSConnectionPool(host='besnow.me', port=443): Max retries"
+  },
+  {
+    "name": "tly",
+    "url": "https://tly.one",
+    "alive": true,
+    "registerable": false,
+    "needs_verify": false,
+    "needs_invite": false,
+    "has_free_trial": false,
+    "msg": "<html><body><h1>403 Forbidden</h1>\nRequest forbidden by administrative rules.\n</body></html>\n",
+    "get_status": 403,
+    "post_status": 403
+  },
+  {
+    "name": "寰宇云",
+    "url": "https://huanyuyun.pro",
+    "alive": true,
+    "registerable": false,
+    "needs_verify": false,
+    "needs_invite": true,
+    "has_free_trial": false,
+    "msg": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly err",
+    "get_status": 404,
+    "post_status": 404
+  },
+  {
+    "name": "GLaDOS",
+    "url": "https://glados.rocks",
+    "alive": true,
+    "registerable": false,
+    "needs_verify": false,
+    "needs_invite": false,
+    "has_free_trial": false,
+    "msg": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx/1.14.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disa",
+    "get_status": 404,
+    "post_status": 404
+  },
+  {
+    "name": "69云",
+    "url": "https://69yun69.com",
+    "alive": false,
+    "registerable": false,
+    "needs_verify": false,
+    "needs_invite": false,
+    "has_free_trial": false,
+    "msg": "连接失败: HTTPSConnectionPool(host='69yun69.com', port=443): Max retri"
+  },
+  {
+    "name": "aiguobit",
+    "url": "https://a.aiguobit.com",
+    "alive": false,
+    "registerable": false,
+    "needs_verify": false,
+    "needs_invite": false,
+    "has_free_trial": false,
+    "msg": "连接失败: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关"
+  },
+  {
+    "name": "hidexx",
+    "url": "https://a.hidexx.com",
+    "alive": false,
+    "registerable": false,
+    "needs_verify": false,
+    "needs_invite": false,
+    "has_free_trial": false,
+    "msg": "连接失败: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关"
+  },
+  {
+    "name": "大哥云",
+    "url": "https://chinese.c-dageyun.com.cn",
+    "alive": true,
+    "registerable": true,
+    "needs_verify": false,
+    "needs_invite": false,
+    "has_free_trial": false,
+    "msg": "404 Not Found",
+    "get_status": 400,
+    "post_status": 400
+  },
+  {
+    "name": "一分机场",
+    "url": "https://1yuan.surf",
+    "alive": true,
+    "registerable": false,
+    "needs_verify": false,
+    "needs_invite": false,
+    "has_free_trial": false,
+    "msg": "",
+    "get_status": 404,
+    "post_status": 404
+  },
+  {
+    "name": "大象网络",
+    "url": "https://www.elephant223.com",
+    "alive": true,
+    "registerable": true,
+    "needs_verify": true,
+    "needs_invite": false,
+    "has_free_trial": true,
+    "msg": "邮箱验证码不能为空",
+    "get_status": 405,
+    "post_status": 422
+  },
+  {
+    "name": "NOW加速",
+    "url": "https://nowjiasu.com",
+    "alive": false,
+    "registerable": false,
+    "needs_verify": false,
+    "needs_invite": false,
+    "has_free_trial": false,
+    "msg": "连接失败: HTTPSConnectionPool(host='nowjiasu.com', port=443): Max retr"
+  },
+  {
+    "name": "瞬云",
+    "url": "https://scloud.my",
+    "alive": false,
+    "registerable": false,
+    "needs_verify": false,
+    "needs_invite": false,
+    "has_free_trial": false,
+    "msg": "连接失败: HTTPSConnectionPool(host='scloud.my', port=443): Max retries"
+  },
+  {
+    "name": "COCODUCK",
+    "url": "https://cocoduck.cc",
+    "alive": true,
+    "registerable": false,
+    "needs_verify": false,
+    "needs_invite": false,
+    "has_free_trial": false,
+    "msg": "\n<!DOCTYPE html>\n<html lang=\"zh-Hans\">\n<head>\n\t<meta charset=\"UTF-8\">\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no\">\n\n\t<title>未找到页面 &#8211; ",
+    "get_status": 404,
+    "post_status": 404
+  },
+  {
+    "name": "稳连云",
+    "url": "https://wenlianyun.com",
+    "alive": true,
+    "registerable": true,
+    "needs_verify": false,
+    "needs_invite": false,
+    "has_free_trial": false,
+    "msg": "操作成功",
+    "get_status": 405,
+    "post_status": 200
+  },
+  {
+    "name": "山水云",
+    "url": "https://xn--9kq015a4jm.com",
+    "alive": true,
+    "registerable": true,
+    "needs_verify": false,
+    "needs_invite": false,
+    "has_free_trial": false,
+    "msg": "<html>\n    <head>\n\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\n    <title>å±±æ°´äº(å½åé²å¤±èï¼å±±æ°´äº.com)</title>\n\t<meta name=\"keywords\" content=\"å±±æ°´äºæºåº",
+    "get_status": 200,
+    "post_status": 200
+  }
+]

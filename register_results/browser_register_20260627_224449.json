@@ -1,0 +1,23 @@
+[
+  {
+    "airport": "稳连云",
+    "email": "bushuozaijian2026@outlook.com",
+    "reg_password": "Aa571412!",
+    "success": false,
+    "error": "'ElementHandle' object has no attribute 'all_inner_texts'"
+  },
+  {
+    "airport": "Speedy",
+    "email": "fishehen5k5rv2xvyirw@outlook.com",
+    "reg_password": "Aa123456!",
+    "success": false,
+    "error": "'ElementHandle' object has no attribute 'all_inner_texts'"
+  },
+  {
+    "airport": "大象网络",
+    "email": "floraide3rb1508k2xlbbi@hotmail.com",
+    "reg_password": "Aa123456!",
+    "success": false,
+    "error": "ElementHandle.click: Timeout 30000ms exceeded.\nCall log:\n  - attempting click action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click a"
+  }
+]

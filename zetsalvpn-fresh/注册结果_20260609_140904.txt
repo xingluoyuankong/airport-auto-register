@@ -1,0 +1,22 @@
+# Zetsal VPN 注册结果
+# 时间: 2026-06-09 14:09:04
+# 数量: 3
+
+# 用户: 5hknaynd7o
+# 密码: 9hn560aer0q289gr!Aa1
+# 试用: ✗
+# 订阅: 无
+5hknaynd7o:9hn560aer0q289gr!Aa1
+
+# 用户: jtb9cu1dj8
+# 密码: u5v1mogdtwsv643y!Aa1
+# 试用: ✗
+# 订阅: 无
+jtb9cu1dj8:u5v1mogdtwsv643y!Aa1
+
+# 用户: 0ulkywfqud
+# 密码: 3ozv50hfllq3hufc!Aa1
+# 试用: ✗
+# 订阅: 无
+0ulkywfqud:3ozv50hfllq3hufc!Aa1
+

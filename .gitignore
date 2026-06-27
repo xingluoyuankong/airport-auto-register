@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Node
+node_modules/
+package-lock.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+*.log.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large binary
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Captcha images (generated)
+captcha_*.png
+cap_*.png
+
+# Compiled Go
+*.exe~
+
+# Temporary files
+tmp/
+temp/

@@ -1,0 +1,36 @@
+proxies:
+  - name: "倚天剑-新加坡-01"
+    type: ssr
+    server: 159.89.223.112
+    port: 8088
+    password: "de7558"
+    cipher: aes-256-cfb
+    protocol: origin
+    obfs: http_simple
+    obfs-param: bing.com
+  - name: "倚天剑-新加坡-02"
+    type: ssr
+    server: 159.89.223.112
+    port: 8088
+    password: "4d79fb"
+    cipher: aes-256-cfb
+    protocol: origin
+    obfs: http_simple
+    obfs-param: bing.com
+  - name: "倚天剑-新加坡-03"
+    type: ssr
+    server: 159.89.223.112
+    port: 8088
+    password: "2170f8"
+    cipher: aes-256-cfb
+    protocol: origin
+    obfs: http_simple
+    obfs-param: bing.com
+
+proxy-groups:
+  - name: Proxy
+    type: select
+    proxies:
+      - "倚天剑-新加坡-01"
+      - "倚天剑-新加坡-02"
+      - "倚天剑-新加坡-03"
