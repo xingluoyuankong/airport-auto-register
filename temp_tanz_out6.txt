@@ -1,0 +1,35 @@
+============================================================
+  TANZCLOUD v2 注册机 (Geetest突破版)
+  邮箱: mx4496f269fa@hotmail.com
+============================================================
+
+[1/5] 加载注册页...
+  标题: 注册 — 飞毯加速
+[2/5] 填表...
+[3/5] Geetest突破...
+  开始突破Geetest...
+  [Geetest] 第1次尝试...
+    滑块: .geetest_slider_button
+    CV2缺口: 197px
+    缩放异常: cannot access local variable 'box' where it is not associated with a value, 用2.3x兜底
+    最终缺口: 452px
+    验证失败，重试...
+    已点击刷新
+  [Geetest] 第2次尝试...
+    滑块: .geetest_slider_button
+    CV2缺口: 197px
+    缩放: 2.36x (track=614 / canvas=260)
+    最终缺口: 462px
+    验证失败，重试...
+    已点击刷新
+  [Geetest] 第3次尝试...
+    滑块: .geetest_slider_button
+    CV2缺口: 197px
+    缩放: 2.36x (track=614 / canvas=260)
+    最终缺口: 468px
+    验证失败，重试...
+    已点击刷新
+  [Geetest] 全部3次重试失败
+  [FAIL] Geetest未能突破!
+
+  注册失败

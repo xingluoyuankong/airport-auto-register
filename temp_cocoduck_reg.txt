@@ -1,0 +1,69 @@
+E:\API��ȡ����\�Զ�������Ѵ�������\01-����VPNע���\graph_mail.py:3: SyntaxWarning: invalid escape sequence '\.'
+  """
+
+============================================================
+  COCODUCK v2 注册机
+  邮箱: mx738945e98b@outlook.com
+============================================================
+[1/8] 加载注册页...
+  页面标题: COCODUCK
+[2/8] 填写注册表单...
+  昵称: 狂暴战车494
+  邮箱: mx738945e98b@outlook.com
+  密码框数量: 2
+  密码已填写
+[3/8] 发送验证码...
+  已点击【获取】按钮
+[4/8] Graph API收验证码 (等90秒)...
+[Graph] 等待 mx738945e98b@outlook.com... 验证码
+[Graph] 找到: 505050 (来自 COCODUCK- 验证邮件)
+  验证码: 505050
+[5/8] 填写验证码...
+  验证码已填写
+[6/8] 勾选协议...
+  [异常] Locator.check: Clicking the checkbox did not change its state
+Call log:
+  - waiting for locator("input[type=\"checkbox\"]").first
+    - locator resolved to <input id="tos" type="checkbox" class="form-check-input"/>
+  - attempting click action
+    - scrolling into view if needed
+    - done scrolling
+    - forcing action
+    - performing click action
+    - click action done
+    - waiting for scheduled navigations to finish
+    - navigations have finished
+
+Traceback (most recent call last):
+  File "E:\API��ȡ����\�Զ�������Ѵ�������\01-����VPNע���\register_cocoduck_v2.py", line 179, in run
+    checkbox.check(force=True)
+  File "G:\Anaconda3\Lib\site-packages\playwright\sync_api\_generated.py", line 15420, in check
+    self._sync(
+  File "G:\Anaconda3\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "G:\Anaconda3\Lib\site-packages\playwright\_impl\_locator.py", line 145, in check
+    return await self._frame.check(self._selector, strict=True, **params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\Anaconda3\Lib\site-packages\playwright\_impl\_frame.py", line 741, in check
+    await self._channel.send("check", locals_to_params(locals()))
+  File "G:\Anaconda3\Lib\site-packages\playwright\_impl\_connection.py", line 61, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\Anaconda3\Lib\site-packages\playwright\_impl\_connection.py", line 528, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Locator.check: Clicking the checkbox did not change its state
+Call log:
+  - waiting for locator("input[type=\"checkbox\"]").first
+    - locator resolved to <input id="tos" type="checkbox" class="form-check-input"/>
+  - attempting click action
+    - scrolling into view if needed
+    - done scrolling
+    - forcing action
+    - performing click action
+    - click action done
+    - waiting for scheduled navigations to finish
+    - navigations have finished
+
+
+  注册失败!

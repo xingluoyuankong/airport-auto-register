@@ -1,0 +1,57 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic:
+      - generic [ref=e4]:
+        - generic [ref=e5]:
+          - generic [ref=e7]: sslar
+          - generic [ref=e8]: Good Afternoon
+        - generic [ref=e9]:
+          - generic [ref=e10]:
+            - button "切换主题" [ref=e11] [cursor=pointer]:
+              - img [ref=e13]
+            - generic [ref=e19]:
+              - generic:
+                - img "中文"
+                - img "English"
+                - img "繁體中文"
+                - img "日本語"
+                - img "한국어"
+                - img "Русский"
+                - img "فارسی"
+              - button "简体中文" [ref=e20] [cursor=pointer]:
+                - img "简体中文" [ref=e23]
+          - generic [ref=e24]:
+            - generic [ref=e25]:
+              - img "Logo" [ref=e27]
+              - heading "登录账户" [level=1] [ref=e28]
+              - paragraph [ref=e29]: 请输入您的凭据继续
+            - generic [ref=e30]:
+              - generic [ref=e31]:
+                - generic [ref=e32]: 邮箱 *
+                - generic [ref=e33]:
+                  - img [ref=e34]
+                  - textbox "邮箱 *" [ref=e37]:
+                    - /placeholder: 请输入邮箱地址
+              - generic [ref=e38]:
+                - generic [ref=e39]: 密码 *
+                - generic [ref=e40]:
+                  - img [ref=e41]
+                  - textbox "密码 *" [ref=e46]:
+                    - /placeholder: 请输入密码
+                  - img [ref=e48] [cursor=pointer]
+              - generic [ref=e51]:
+                - generic [ref=e53] [cursor=pointer]:
+                  - checkbox "记住我"
+                  - generic [ref=e55]: 记住我
+                - link "忘记密码？" [ref=e56] [cursor=pointer]:
+                  - /url: "#/forgot-password"
+              - button "登录" [ref=e57] [cursor=pointer]:
+                - generic [ref=e58]:
+                  - text: 登录
+                  - img [ref=e59]
+            - generic [ref=e62]:
+              - generic [ref=e64]: 还没有账户？
+              - link "创建账户" [ref=e65] [cursor=pointer]:
+                - /url: "#/register"
+      - img
+  - generic: v0.3.8

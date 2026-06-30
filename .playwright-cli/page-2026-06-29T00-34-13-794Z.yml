@@ -1,0 +1,31 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - link "COCODUCK Logo":
+        - /url: "#"
+        - img "COCODUCK Logo"
+    - generic [ref=e6]:
+      - heading "注册账户" [level=2] [ref=e7]
+      - generic [ref=e9]:
+        - textbox "昵称" [ref=e10]: 耍酷的沙基拉
+        - button "随机生成昵称" [ref=e11] [cursor=pointer]:
+          - img [ref=e12]
+      - textbox "电子邮箱" [ref=e19]
+      - textbox "登录密码" [ref=e22]
+      - textbox "重复登录密码" [ref=e25]
+      - textbox "注册邀请码（可选）" [disabled] [ref=e28]: 8c1073605d
+      - generic [ref=e30]:
+        - textbox "收不到邮件请查看垃圾箱" [ref=e31]
+        - button "获取" [ref=e32] [cursor=pointer]
+      - generic [ref=e34]:
+        - checkbox "我已阅读并同意 服务条款与隐私政策" [ref=e35]
+        - generic [ref=e36]:
+          - text: 我已阅读并同意
+          - link "服务条款与隐私政策" [ref=e37] [cursor=pointer]:
+            - /url: /tos
+      - button "注册新账户" [ref=e39] [cursor=pointer]
+    - generic [ref=e40]:
+      - text: 已有账户？
+      - link "点击登录" [ref=e41] [cursor=pointer]:
+        - /url: /auth/login
+  - text:  

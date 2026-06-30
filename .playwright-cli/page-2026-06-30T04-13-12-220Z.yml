@@ -1,0 +1,27 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - img [ref=e8]
+    - heading "FlyBit" [level=5] [ref=e9]
+    - generic [ref=e14]:
+      - textbox "邮箱" [active] [ref=e15]
+      - generic:
+        - generic: 邮箱
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - textbox "密码" [ref=e20]
+        - generic:
+          - generic: 密码
+      - img [ref=e24] [cursor=pointer]
+    - button "登入" [ref=e31] [cursor=pointer]:
+      - img [ref=e33]
+      - generic [ref=e36]: 登入
+  - generic [ref=e37]:
+    - generic [ref=e38]:
+      - link "注册" [ref=e39] [cursor=pointer]:
+        - /url: "#/register"
+      - separator [ref=e40]
+      - link "忘记密码" [ref=e41] [cursor=pointer]:
+        - /url: "#/forgetpassword"
+    - button "简体中文" [ref=e43] [cursor=pointer]:
+      - img [ref=e45]
+      - generic [ref=e49]: 简体中文

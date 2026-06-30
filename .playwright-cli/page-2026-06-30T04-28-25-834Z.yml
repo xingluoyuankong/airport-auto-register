@@ -1,0 +1,37 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "倚天剑" [ref=e3] [cursor=pointer]:
+      - /url: /
+    - generic [ref=e4]:
+      - link "注册" [ref=e5] [cursor=pointer]:
+        - /url: /users/register
+      - link "登录" [ref=e6] [cursor=pointer]:
+        - /url: /users/login
+  - generic [ref=e8]:
+    - heading "用户登录（需开全局代理）" [level=3] [ref=e10]
+    - generic [ref=e12]:
+      - generic [ref=e15]:
+        - text: 邮箱
+        - textbox "邮箱" [ref=e18]:
+          - /placeholder: E-mail address
+      - generic [ref=e21]:
+        - text: 密码
+        - textbox "密码" [ref=e24]:
+          - /placeholder: Password
+      - generic [ref=e25]:
+        - generic [ref=e26]:
+          - generic [ref=e27]: 现在登录
+          - button "登录" [ref=e28] [cursor=pointer]
+        - generic [ref=e29]:
+          - generic [ref=e30]: 使用疑问解答
+          - link "关注我们" [ref=e31] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - generic [ref=e32]:
+          - generic [ref=e33]: 忘记密码？
+          - link "忘记密码" [ref=e34] [cursor=pointer]:
+            - /url: /users/password_reset
+        - generic [ref=e35]:
+          - generic [ref=e36]: 还没有账号？
+          - link "注册" [ref=e37] [cursor=pointer]:
+            - /url: /users/register
+  - heading "copyright@shadow" [level=4] [ref=e41]

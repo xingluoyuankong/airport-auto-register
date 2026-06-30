@@ -1,0 +1,4 @@
+  File "E:\API��ȡ����\�Զ�������Ѵ�������\01-����VPNע���\scripts\dageyun_extract.py", line 227
+    after = page.evaluate("() => {
+                          ^
+SyntaxError: unterminated string literal (detected at line 227)

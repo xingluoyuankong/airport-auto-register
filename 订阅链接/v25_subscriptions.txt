@@ -1,0 +1,119 @@
+# V25 Airport Results - 2026-06-28T15:03:38.342Z
+
+=== #1/16 ===
+
+🎯 ssrsub
+   URL: https://sub.ssrsub.com/
+  ❌ NAV: page.goto: net::ERR_CONNECTION_CLOSED at https://sub.ssrsub.com/
+Call log:
+[2m 
+❌ ssrsub: NAV_FAIL 
+
+=== #2/16 ===
+
+🎯 Speedy
+   URL: https://cloud.speedypro.xyz/#/register?code=8e52hntA
+  ❌ NAV: page.goto: net::ERR_CONNECTION_CLOSED at https://cloud.speedypro.xyz/#/register?
+❌ Speedy: NAV_FAIL 
+
+=== #3/16 ===
+
+🎯 FSCloud
+   URL: https://dash.fscloud.cc/#/register?code=3Ml6pg2Y
+  ❌ NAV: page.goto: Navigation to "https://dash.fscloud.cc/#/register?code=3Ml6pg2Y" is i
+❌ FSCloud: NAV_FAIL 
+
+=== #4/16 ===
+
+🎯 极客加速器
+   URL: https://board.jike99.xyz/#/register?code=DEWJpq74
+  ❌ NAV: page.goto: Navigation to "https://board.jike99.xyz/#/register?code=DEWJpq74" is 
+❌ 极客加速器: NAV_FAIL 
+
+=== #5/16 ===
+
+🎯 狗头加速器
+   URL: https://lksi.xyz/#/register?code=Yi5MH9Gl
+  ❌ NAV: page.goto: Navigation to "https://lksi.xyz/#/register?code=Yi5MH9Gl" is interrup
+❌ 狗头加速器: NAV_FAIL 
+
+=== #6/16 ===
+
+🎯 翱翔云
+   URL: https://www.aoxiangyun.top/auth/register?code=77d347ea69
+  ❌ NAV: page.goto: Navigation to "https://www.aoxiangyun.top/auth/register?code=77d347ea
+❌ 翱翔云: NAV_FAIL 
+
+=== #7/16 ===
+
+🎯 闪电狗
+   URL: https://shandiandog.com/#/register?code=5q0ayZCE
+  ❌ NAV: page.goto: Navigation to "https://shandiandog.com/#/register?code=5q0ayZCE" is i
+❌ 闪电狗: NAV_FAIL 
+
+=== #8/16 ===
+
+🎯 BCast
+   URL: https://bcast.ink/#/register?code=bD3I2Lur
+  ❌ NAV: page.goto: net::ERR_CONNECTION_CLOSED at https://bcast.ink/#/register?code=bD3I2
+❌ BCast: NAV_FAIL 
+
+=== #9/16 ===
+
+🎯 大迅云
+   URL: https://daxun.club/#/register?code=zMlVqbAy
+  ❌ NAV: page.goto: net::ERR_CONNECTION_CLOSED at https://daxun.club/#/register?code=zMlV
+❌ 大迅云: NAV_FAIL 
+
+=== #10/16 ===
+
+🎯 Synapse
+   URL: https://user.xinna.co/#/register?code=mTF6TTuu
+  ❌ NAV: page.goto: net::ERR_CONNECTION_CLOSED at https://user.xinna.co/#/register?code=m
+❌ Synapse: NAV_FAIL 
+
+=== #11/16 ===
+
+🎯 快乐星球
+   URL: https://klxq.djgskc.top/#/register?code=Z0fWF7Uc
+  ❌ NAV: page.goto: net::ERR_CONNECTION_CLOSED at https://klxq.djgskc.top/#/register?code
+❌ 快乐星球: NAV_FAIL 
+
+=== #12/16 ===
+
+🎯 qlgq
+   URL: https://www.qlgq.top/auth/register?code=a6a1efbae5
+  ❌ NAV: page.goto: net::ERR_CONNECTION_CLOSED at https://www.qlgq.top/auth/register?code
+❌ qlgq: NAV_FAIL 
+
+=== #13/16 ===
+
+🎯 逗猫
+   URL: https://doucat.top/index.php#/register?code=DSRm9DaO
+  ❌ NAV: page.goto: Navigation to "https://doucat.top/index.php#/register?code=DSRm9DaO" 
+❌ 逗猫: NAV_FAIL 
+
+=== #14/16 ===
+
+🎯 BBQ烧烤店
+   URL: https://qiaoxbbq.com/#/register?code=gWpzwlfG
+  ❌ NAV: page.goto: Navigation to "https://qiaoxbbq.com/#/register?code=gWpzwlfG" is inte
+❌ BBQ烧烤店: NAV_FAIL 
+
+=== #15/16 ===
+
+🎯 JetFast
+   URL: https://my.jetfast.dev/#/register?code=8VksZnvi
+  ❌ NAV: page.goto: net::ERR_CONNECTION_CLOSED at https://my.jetfast.dev/#/register?code=
+❌ JetFast: NAV_FAIL 
+
+=== #16/16 ===
+
+🎯 魔戒
+   URL: https://www.mojie.me/#/register?code=WRvvD3zu
+  ❌ NAV: page.goto: Navigation to "https://www.mojie.me/#/register?code=WRvvD3zu" is inte
+❌ 魔戒: NAV_FAIL 
+
+=== V25 COMPLETE: 0 SUB ===
+
+Browser open.

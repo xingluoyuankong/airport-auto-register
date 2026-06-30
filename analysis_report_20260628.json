@@ -1,0 +1,161 @@
+[
+  {
+    "name": "NanoCloud-360buy",
+    "url": "https://edu.360buyimg.men",
+    "status": "blocked_captcha",
+    "form_elements": [],
+    "has_captcha": true,
+    "email_accepted": null,
+    "subscription_direct": false,
+    "subscription_url": null,
+    "registration_possible": false,
+    "notes": [
+      "CAPTCHA: captcha"
+    ],
+    "title": "NanoCloud",
+    "captcha_type": [
+      "captcha"
+    ]
+  },
+  {
+    "name": "NanoCloud-yuque",
+    "url": "https://edu.yuque.men",
+    "status": "blocked_captcha",
+    "form_elements": [],
+    "has_captcha": true,
+    "email_accepted": null,
+    "subscription_direct": false,
+    "subscription_url": null,
+    "registration_possible": false,
+    "notes": [
+      "CAPTCHA: captcha"
+    ],
+    "title": "NanoCloud",
+    "captcha_type": [
+      "captcha"
+    ]
+  },
+  {
+    "name": "BoostNet",
+    "url": "https://www.boostnet.top",
+    "status": "error",
+    "form_elements": [],
+    "has_captcha": false,
+    "email_accepted": null,
+    "subscription_direct": false,
+    "subscription_url": null,
+    "registration_possible": false,
+    "notes": [
+      "Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.boostnet.top/\nCall log:\n  - navigating to \"https://www.boostnet.top/\", waiting until \"domcontentloaded\"\n"
+    ]
+  },
+  {
+    "name": "一元中转",
+    "url": "https://www.xn--9kqw2h015j2lg.site",
+    "status": "error",
+    "form_elements": [],
+    "has_captcha": false,
+    "email_accepted": null,
+    "subscription_direct": false,
+    "subscription_url": null,
+    "registration_possible": false,
+    "notes": [
+      "Error: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.xn--9kqw2h015j2lg.site/\", waiting until \"domcontentloaded\"\n",
+      "Connection timeout"
+    ]
+  },
+  {
+    "name": "一分机场",
+    "url": "https://xn--z7xv9z0vo1e.top",
+    "status": "error",
+    "form_elements": [],
+    "has_captcha": false,
+    "email_accepted": null,
+    "subscription_direct": false,
+    "subscription_url": null,
+    "registration_possible": false,
+    "notes": [
+      "Error: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://xn--z7xv9z0vo1e.top/\", waiting until \"domcontentloaded\"\n",
+      "Connection timeout"
+    ]
+  },
+  {
+    "name": "69云-fly99",
+    "url": "https://69.fly99.xyz",
+    "status": "error",
+    "form_elements": [],
+    "has_captcha": false,
+    "email_accepted": null,
+    "subscription_direct": false,
+    "subscription_url": null,
+    "registration_possible": false,
+    "notes": [
+      "Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://69.fly99.xyz/\nCall log:\n  - navigating to \"https://69.fly99.xyz/\", waiting until \"domcontentloaded\"\n"
+    ]
+  },
+  {
+    "name": "猫猴VPN",
+    "url": "https://www.nekohou.com",
+    "status": "error",
+    "form_elements": [],
+    "has_captcha": false,
+    "email_accepted": null,
+    "subscription_direct": false,
+    "subscription_url": null,
+    "registration_possible": false,
+    "notes": [
+      "Error: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.nekohou.com/\", waiting until \"domcontentloaded\"\n",
+      "Connection timeout"
+    ]
+  },
+  {
+    "name": "白嫖机场",
+    "url": "https://www.xn--fctv8v9uh5rc.com",
+    "status": "error",
+    "form_elements": [],
+    "has_captcha": false,
+    "email_accepted": null,
+    "subscription_direct": false,
+    "subscription_url": null,
+    "registration_possible": false,
+    "notes": [
+      "Error: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.xn--fctv8v9uh5rc.com/\", waiting until \"domcontentloaded\"\n",
+      "Connection timeout"
+    ]
+  },
+  {
+    "name": "FSCloud",
+    "url": "https://fscloud.one",
+    "status": "blocked_captcha",
+    "form_elements": [],
+    "has_captcha": true,
+    "email_accepted": null,
+    "subscription_direct": false,
+    "subscription_url": null,
+    "registration_possible": false,
+    "notes": [
+      "CAPTCHA: recaptcha, hcaptcha, cloudflare, captcha"
+    ],
+    "title": "SuziTea Official Site",
+    "captcha_type": [
+      "recaptcha",
+      "hcaptcha",
+      "cloudflare",
+      "captcha"
+    ]
+  },
+  {
+    "name": "农夫山泉-nfsq",
+    "url": "https://www.nfsq.xyz",
+    "status": "reachable",
+    "form_elements": [],
+    "has_captcha": false,
+    "email_accepted": null,
+    "subscription_direct": false,
+    "subscription_url": null,
+    "registration_possible": false,
+    "notes": [],
+    "title": "Access Denied",
+    "final_url": "https://forsale.godaddy.com/forsale/www.nfsq.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&"
+  }
+]

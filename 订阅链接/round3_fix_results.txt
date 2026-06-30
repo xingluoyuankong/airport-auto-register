@@ -1,0 +1,34 @@
+[
+  {
+    "name": "COCODUCK",
+    "status": "NEEDS_VERIFY"
+  },
+  {
+    "name": "69yun",
+    "status": "NO_FORM"
+  },
+  {
+    "name": "红叶",
+    "status": "NO_SUBMIT"
+  },
+  {
+    "name": "v2ny",
+    "status": "NO_FORM"
+  },
+  {
+    "name": "桔子云",
+    "status": "NEEDS_VERIFY"
+  },
+  {
+    "name": "NOVACLOUD",
+    "status": "NO_SUBMIT"
+  },
+  {
+    "name": "百慕大",
+    "status": "DEAD"
+  },
+  {
+    "name": "speedpro",
+    "status": "EMAIL_REJECTED"
+  }
+]

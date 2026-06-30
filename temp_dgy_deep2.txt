@@ -1,0 +1,28 @@
+[1] 登录...
+  验证码: 9395
+  尝试密码: VpnTest2026!
+  失败，刷新验证码...
+  尝试密码: VpnTest2026
+  失败，刷新验证码...
+Traceback (most recent call last):
+  File "E:\API��ȡ����\�Զ�������Ѵ�������\01-����VPNע���\test\dgy_login_extract.py", line 47, in <module>
+    page.click('img[alt="���ˢ��"]')
+  File "G:\Anaconda3\Lib\site-packages\playwright\sync_api\_generated.py", line 9932, in click
+    self._sync(
+  File "G:\Anaconda3\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "G:\Anaconda3\Lib\site-packages\playwright\_impl\_page.py", line 833, in click
+    return await self._main_frame.click(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\Anaconda3\Lib\site-packages\playwright\_impl\_frame.py", line 488, in click
+    await self._channel.send("click", locals_to_params(locals()))
+  File "G:\Anaconda3\Lib\site-packages\playwright\_impl\_connection.py", line 61, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\Anaconda3\Lib\site-packages\playwright\_impl\_connection.py", line 528, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("img[alt=\"���ˢ��\"]")
+

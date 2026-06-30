@@ -1,0 +1,117 @@
+- generic [ref=e1]:
+  - generic [ref=e53]:
+    - navigation [ref=e54]:
+      - generic [ref=e56]:
+        - link "大哥云" [ref=e57] [cursor=pointer]:
+          - /url: /
+        - text: 
+      - list [ref=e59]:
+        - listitem [ref=e150]:
+          - generic [ref=e151] [cursor=pointer]:
+            - generic [ref=e152]: 
+            - generic [ref=e153]: 仪表盘
+        - listitem [ref=e154]:
+          - generic [ref=e155] [cursor=pointer]:
+            - generic [ref=e156]: 
+            - generic [ref=e157]: 使用文档
+        - listitem [ref=e158]: 订阅
+        - listitem [ref=e159]:
+          - generic [ref=e160] [cursor=pointer]:
+            - generic [ref=e161]: 
+            - generic [ref=e162]: 购买订阅
+        - listitem [ref=e163]:
+          - generic [ref=e164] [cursor=pointer]:
+            - generic [ref=e165]: 
+            - generic [ref=e166]: 节点状态
+        - listitem [ref=e167]: 财务
+        - listitem [ref=e168]:
+          - generic [ref=e169] [cursor=pointer]:
+            - generic [ref=e170]: 
+            - generic [ref=e171]: 我的订单
+        - listitem [ref=e172]:
+          - generic [ref=e173] [cursor=pointer]:
+            - generic [ref=e174]: 
+            - generic [ref=e175]: 我的邀请
+        - listitem [ref=e176]: 用户
+        - listitem [ref=e177]:
+          - generic [ref=e178] [cursor=pointer]:
+            - generic [ref=e179]: 
+            - generic [ref=e180]: 个人中心
+        - listitem [ref=e181]:
+          - generic [ref=e182] [cursor=pointer]:
+            - generic [ref=e183]: 
+            - generic [ref=e184]: 我的工单
+        - listitem [ref=e185]:
+          - generic [ref=e186] [cursor=pointer]:
+            - generic [ref=e187]: 
+            - generic [ref=e188]: 流量明细
+      - generic [ref=e99]: 大哥云 v1.7.4
+    - banner [ref=e100]:
+      - generic [ref=e101]:
+        - text: 
+        - generic [ref=e102]: 仪表盘
+        - generic [ref=e103]:
+          - button "" [ref=e105] [cursor=pointer]:
+            - generic [ref=e106]: 
+          - button "" [ref=e108] [cursor=pointer]:
+            - generic [ref=e109]: 
+          - generic [ref=e110]:
+            - button " dageyun_test_2026@outlook.com " [ref=e189] [cursor=pointer]:
+              - generic [ref=e112]: 
+              - text: dageyun_test_2026@outlook.com
+              - generic [ref=e113]: 
+            - text:  
+    - main [ref=e114]:
+      - generic [ref=e115]:
+        - link "公告 2026.4.5 | 订阅连接变更 2026-04-05" [ref=e192] [cursor=pointer]:
+          - /url: javascript:void(0)
+          - generic [ref=e193]:
+            - paragraph [ref=e195]:
+              - generic [ref=e196]: 公告
+            - paragraph [ref=e197]: 2026.4.5 | 订阅连接变更
+            - paragraph [ref=e198]: 2026-04-05
+        - generic [ref=e118]:
+          - heading "我的订阅" [level=3] [ref=e120]
+          - generic [ref=e201] [cursor=pointer]:
+            - generic [ref=e203]: 
+            - generic [ref=e204]: 购买订阅
+        - generic [ref=e128]:
+          - heading "捷径" [level=3] [ref=e130]
+          - generic [ref=e133]:
+            - generic [ref=e134] [cursor=pointer]:
+              - generic [ref=e135]: 查看教程
+              - generic [ref=e136]: 学习如何使用 大哥云
+              - generic [ref=e137]: 
+            - generic [ref=e138] [cursor=pointer]:
+              - generic [ref=e139]: 一键订阅
+              - generic [ref=e140]: 快速将节点导入对应客户端进行使用
+              - generic [ref=e141]: 
+            - generic [ref=e142] [cursor=pointer]:
+              - generic [ref=e143]: 购买订阅
+              - generic [ref=e144]: 对您当前的订阅进行购买
+              - generic [ref=e145]: 
+            - generic [ref=e146] [cursor=pointer]:
+              - generic [ref=e147]: 遇到问题
+              - generic [ref=e148]: 遇到问题可以通过工单与我们沟通
+              - generic [ref=e149]: 
+  - dialog [active] [ref=e223]:
+    - document:
+      - generic [ref=e226]:
+        - generic [ref=e227] [cursor=pointer]:
+          - generic [ref=e229]: 
+          - generic [ref=e230]: 复制订阅地址
+        - generic [ref=e231] [cursor=pointer]:
+          - generic [ref=e233]: 
+          - generic [ref=e234]: 扫描二维码订阅
+        - generic [ref=e235] [cursor=pointer]:
+          - img [ref=e237]
+          - generic [ref=e238]: 导入到 Clash Verge
+        - generic [ref=e239] [cursor=pointer]:
+          - img [ref=e241]
+          - generic [ref=e242]: 导入到 Clash For Windows
+        - button "不会使用，查看使用教程" [ref=e244] [cursor=pointer]:
+          - generic: 不会使用，查看使用教程
+  - generic [ref=e246]:
+    - 'generic "icon: check-circle" [ref=e247]':
+      - img [ref=e248]
+    - text: 复制成功

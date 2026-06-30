@@ -1,0 +1,25 @@
+- main [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - generic [ref=e13]:
+        - link "大哥云" [ref=e14] [cursor=pointer]:
+          - /url: javascript:void(0);
+        - paragraph [ref=e15]: 遇到问题可发工单处理 - 126
+      - textbox "邮箱" [ref=e17]: dageyun_test_2026@outlook.com
+      - textbox "密码" [ref=e19]: VpnTest2026
+      - generic [ref=e20]:
+        - textbox "验证码" [ref=e22]: "8038"
+        - img "点击刷新" [ref=e24] [cursor=pointer]
+      - button "登入" [ref=e26] [cursor=pointer]:
+        - generic [ref=e35]:
+          - generic [ref=e36]: 
+          - text: 登入
+    - generic [ref=e29]:
+      - link "注册" [ref=e30] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - separator [ref=e31]
+      - link "忘记密码" [ref=e32] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - generic [ref=e33] [cursor=pointer]:
+        - generic [ref=e34]: 
+        - text: 简体中文

@@ -1,0 +1,214 @@
+[
+  {
+    "name": "ssrsub",
+    "url": "https://sub.ssrsub.com/",
+    "status": "NEEDS_CUSTOM",
+    "subscription": null,
+    "title": "SSRSub Cloud",
+    "landingUrl": "https://sub.ssrsub.com/#/login"
+  },
+  {
+    "name": "大哥云",
+    "url": "https://honven20.dgywzc.com/",
+    "status": "NEEDS_CUSTOM",
+    "subscription": null,
+    "title": "",
+    "landingUrl": "https://a03.dgy02.com/"
+  },
+  {
+    "name": "万达云",
+    "url": "https://www.z1z1.top/",
+    "status": "NEEDS_CUSTOM",
+    "subscription": null,
+    "title": "万达云导航｜万达云官网 — 请保存本页防失联",
+    "landingUrl": "https://www.z1z1.top/"
+  },
+  {
+    "name": "qlgq",
+    "url": "https://www.qlgq.top/",
+    "status": "DEAD",
+    "subscription": null,
+    "error": "goto failed: page.goto: net::ERR_CONNECTION_CLOSED at https://www.qlgq.top/\nCall log:\n\u001b[2m  - navigating to \"http"
+  },
+  {
+    "name": "BT3rd",
+    "url": "https://px.bt3.one/",
+    "status": "DEAD",
+    "subscription": null,
+    "error": "goto failed: page.goto: net::ERR_CONNECTION_CLOSED at https://px.bt3.one/\nCall log:\n\u001b[2m  - navigating to \"https:"
+  },
+  {
+    "name": "彩虹云",
+    "url": "https://chy.fit/",
+    "status": "DEAD",
+    "subscription": null,
+    "error": "goto failed: page.goto: net::ERR_CONNECTION_CLOSED at https://chy.fit/\nCall log:\n\u001b[2m  - navigating to \"https://c"
+  },
+  {
+    "name": "宝贝云",
+    "url": "https://v3ssy.xyz/",
+    "status": "NEEDS_CUSTOM",
+    "subscription": null,
+    "title": "宝贝云",
+    "landingUrl": "https://v3ssy.xyz/"
+  },
+  {
+    "name": "大迅云",
+    "url": "https://daxun.club/",
+    "status": "DEAD",
+    "subscription": null,
+    "error": "goto failed: page.goto: net::ERR_CONNECTION_CLOSED at https://daxun.club/\nCall log:\n\u001b[2m  - navigating to \"https:"
+  },
+  {
+    "name": "BCast",
+    "url": "https://bcast.ink/",
+    "status": "DEAD",
+    "subscription": null,
+    "error": "goto failed: page.goto: net::ERR_CONNECTION_CLOSED at https://bcast.ink/\nCall log:\n\u001b[2m  - navigating to \"https:/"
+  },
+  {
+    "name": "cd520",
+    "url": "https://cd520.xyz/",
+    "status": "NEEDS_CUSTOM",
+    "subscription": null,
+    "title": "cd1314.xyz",
+    "landingUrl": "https://cd520.xyz/#/login"
+  },
+  {
+    "name": "翱翔云",
+    "url": "https://www.aoxiangyun.top/",
+    "status": "NEEDS_CUSTOM",
+    "subscription": null,
+    "title": "Loading http://quickresultsonline.com/?dn=aoxiangyun.top&sksubid=481706&_slsen=1",
+    "landingUrl": "https://www.aoxiangyun.top/"
+  },
+  {
+    "name": "cocolink",
+    "url": "https://cocolink.org/",
+    "status": "DEAD",
+    "subscription": null,
+    "error": "goto failed: page.goto: net::ERR_CONNECTION_CLOSED at https://cocolink.org/\nCall log:\n\u001b[2m  - navigating to \"http"
+  },
+  {
+    "name": "难民机场",
+    "url": "https://nanmin.xyz/",
+    "status": "NEEDS_CUSTOM",
+    "subscription": null,
+    "title": "请输入密码访问",
+    "landingUrl": "https://202601.72.chat/2026?nanmin.xyz"
+  },
+  {
+    "name": "BBQ",
+    "url": "https://qiaoxbbq.com/",
+    "status": "DEAD",
+    "subscription": null,
+    "error": "goto failed: page.goto: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://qiaoxbbq.com/\", waitin"
+  },
+  {
+    "name": "纵横加速",
+    "url": "https://www.okvpn.cc/",
+    "status": "NEEDS_CUSTOM",
+    "subscription": null,
+    "title": "okvpn.cc | 526: Invalid SSL certificate",
+    "landingUrl": "https://www.okvpn.cc/"
+  },
+  {
+    "name": "闪电狗",
+    "url": "https://shandiandog.com/",
+    "status": "NEEDS_CUSTOM",
+    "subscription": null,
+    "title": "Loading http://ww17.shandiandog.com/",
+    "landingUrl": "https://shandiandog.com/"
+  },
+  {
+    "name": "雨燕云",
+    "url": "https://yuyan.online/",
+    "status": "NEEDS_CUSTOM",
+    "subscription": null,
+    "title": "雨燕云",
+    "landingUrl": "https://yuyan.online/#/login"
+  },
+  {
+    "name": "极客加速器",
+    "url": "https://board.jike99.xyz/",
+    "status": "NEEDS_CUSTOM",
+    "subscription": null,
+    "title": "",
+    "landingUrl": "http://ww1.jike99.xyz/"
+  },
+  {
+    "name": "besnow",
+    "url": "https://besnow.me/",
+    "status": "PLAN_PAGE",
+    "subscription": null,
+    "title": "Besnow Cloud 貝雪雲｜香港網絡加速與流媒體解鎖",
+    "landingUrl": "https://besnow.me/"
+  },
+  {
+    "name": "速云",
+    "url": "https://zhu.suyun.bio/",
+    "status": "NEEDS_CUSTOM",
+    "subscription": null,
+    "title": "最新视频",
+    "landingUrl": "https://zhu.suyun.bio/"
+  },
+  {
+    "name": "快乐星球",
+    "url": "https://klxq.djgskc.top/",
+    "status": "DEAD",
+    "subscription": null,
+    "error": "goto failed: page.goto: net::ERR_CONNECTION_CLOSED at https://klxq.djgskc.top/\nCall log:\n\u001b[2m  - navigating to \"h"
+  },
+  {
+    "name": "proxyvip",
+    "url": "https://www.proxyvip.xyz/",
+    "status": "DEAD",
+    "subscription": null,
+    "error": "goto failed: page.goto: net::ERR_CONNECTION_CLOSED at https://www.proxyvip.xyz/\nCall log:\n\u001b[2m  - navigating to \""
+  },
+  {
+    "name": "Bochidev",
+    "url": "https://b0chi.r-yu.me/",
+    "status": "DEAD",
+    "subscription": null,
+    "error": "goto failed: page.goto: net::ERR_CONNECTION_CLOSED at https://b0chi.r-yu.me/\nCall log:\n\u001b[2m  - navigating to \"htt"
+  },
+  {
+    "name": "农夫山泉",
+    "url": "https://sp.nfsq.me/",
+    "status": "NEEDS_CUSTOM",
+    "subscription": null,
+    "title": "Loading http://ww17.sp.nfsq.me/",
+    "landingUrl": "https://sp.nfsq.me/"
+  },
+  {
+    "name": "Mickey",
+    "url": "https://www.mickey.business/",
+    "status": "DEAD",
+    "subscription": null,
+    "error": "goto failed: page.goto: net::ERR_CONNECTION_CLOSED at https://www.mickey.business/\nCall log:\n\u001b[2m  - navigating t"
+  },
+  {
+    "name": "Synapse",
+    "url": "https://user.xinna.co/",
+    "status": "DEAD",
+    "subscription": null,
+    "error": "goto failed: page.goto: net::ERR_CONNECTION_CLOSED at https://user.xinna.co/\nCall log:\n\u001b[2m  - navigating to \"htt"
+  },
+  {
+    "name": "aimacloud",
+    "url": "https://www.aimacloud.info/",
+    "status": "NEEDS_CUSTOM",
+    "subscription": null,
+    "title": "Redirecting...",
+    "landingUrl": "https://www.aimacloud.info/"
+  },
+  {
+    "name": "alori",
+    "url": "https://oukasou.xyz/",
+    "status": "NEEDS_CUSTOM",
+    "subscription": null,
+    "title": "Loading http://ww38.oukasou.xyz/",
+    "landingUrl": "https://oukasou.xyz/"
+  }
+]

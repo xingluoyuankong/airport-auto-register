@@ -1,0 +1,37 @@
+- generic [ref=e6]:
+  - img "logo" [ref=e8]
+  - paragraph [ref=e9]: 努力吧！就算再寂寞！也要努力活下去！
+  - paragraph [ref=e10]: 《鬼灭之刃》
+  - generic [ref=e11]:
+    - heading "登录" [level=4] [ref=e13]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]: 邮箱
+        - textbox "邮箱" [active] [ref=e18]
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - generic [ref=e21]: 密码
+          - link "忘记密码？" [ref=e23] [cursor=pointer]:
+            - /url: /password/reset
+        - textbox "密码" [ref=e24]
+      - text: 
+      - generic [ref=e29]:
+        - img [ref=e30]
+        - generic "点击按钮开始验证" [ref=e33] [cursor=pointer]
+        - generic [ref=e39]: 点击按钮开始验证
+      - generic [ref=e41]:
+        - checkbox "记住我" [ref=e42]
+        - generic [ref=e43]: 记住我
+      - button "登录" [ref=e45] [cursor=pointer]
+      - generic [ref=e47]: 或
+      - button " 使用 Telegram 登录" [ref=e49] [cursor=pointer]:
+        - generic [ref=e50]: 
+        - text: 使用 Telegram 登录
+  - generic [ref=e51]:
+    - text: 还没有账号？
+    - link "马上注册 👉 👉" [ref=e52] [cursor=pointer]:
+      - /url: /auth/register
+  - generic [ref=e53]: Copyright © 2025 iKuuu VPN
+  - generic [ref=e55]:
+    - text: 一直有问题？邮箱联系管理员：
+    - text: ikuuu-complain@tuta.io （请一并发送故障截图）

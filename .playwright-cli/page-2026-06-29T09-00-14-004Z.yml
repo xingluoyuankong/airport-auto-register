@@ -1,0 +1,39 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - link "COCODUCK Logo" [ref=e5] [cursor=pointer]:
+      - /url: "#"
+      - img "COCODUCK Logo" [ref=e6]
+    - generic [ref=e8]:
+      - heading "注册账户" [level=2] [ref=e9]
+      - generic [ref=e11]:
+        - textbox "昵称" [ref=e12]: 欣喜的小懒虫
+        - button "随机生成昵称" [ref=e13] [cursor=pointer]:
+          - img [ref=e14]
+      - textbox "电子邮箱" [ref=e21]: mx738945e98b@outlook.com
+      - textbox "登录密码" [ref=e24]: VpnTest2026!
+      - textbox "重复登录密码" [ref=e27]: VpnTest2026!
+      - textbox "注册邀请码（可选）" [disabled] [ref=e30]: 8c1073605d
+      - generic [ref=e32]:
+        - textbox "收不到邮件请查看垃圾箱" [ref=e33]
+        - button "获取" [ref=e34] [cursor=pointer]
+      - generic [ref=e36]:
+        - checkbox "我已阅读并同意 服务条款与隐私政策" [ref=e37]
+        - generic [ref=e38]:
+          - text: 我已阅读并同意
+          - link "服务条款与隐私政策" [ref=e39] [cursor=pointer]:
+            - /url: /tos
+      - button "注册新账户" [ref=e41] [cursor=pointer]
+    - generic [ref=e42]:
+      - text: 已有账户？
+      - link "点击登录" [ref=e43] [cursor=pointer]:
+        - /url: /auth/login
+  - dialog [active] [ref=e44]:
+    - document:
+      - generic [ref=e45]:
+        - button "Close" [ref=e46] [cursor=pointer]
+        - generic [ref=e48]:
+          - generic [ref=e49]: 
+          - paragraph [ref=e50]: 验证码发送成功，请查收邮件。
+        - link "好" [ref=e55] [cursor=pointer]:
+          - /url: ""
+  - text: 

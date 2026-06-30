@@ -1,0 +1,22 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e6]: 🌐
+    - heading "iKuuuVPN 最新域名" [level=1] [ref=e7]
+    - paragraph [ref=e8]: 更新时间：2026-04-14
+  - generic [ref=e9]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - heading "ikuuu.win" [level=3] [ref=e13]
+        - generic [ref=e14]: 检测中...
+      - paragraph [ref=e16]: 主要域名
+      - link "访问网站" [ref=e18] [cursor=pointer]:
+        - /url: https://ikuuu.win/
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - heading "ikuuu.fyi" [level=3] [ref=e22]
+        - generic [ref=e23]: 检测中...
+      - paragraph [ref=e25]: 备用域名 1
+      - link "访问网站" [ref=e27] [cursor=pointer]:
+        - /url: https://ikuuu.fyi/
+  - contentinfo [ref=e28]:
+    - paragraph [ref=e29]: iKuuu VPN - 2019-2026

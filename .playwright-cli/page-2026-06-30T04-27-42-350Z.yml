@@ -1,0 +1,19 @@
+- generic [ref=e2]:
+  - heading "欢迎来到节点订阅使用教程" [level=1] [ref=e3]
+  - heading "我们的站点可以通过以下域名访问，建议收藏 help.cd520.xyz 防止丢失回家的路" [level=3] [ref=e4]
+  - list [ref=e5]:
+    - listitem [ref=e6]:
+      - link "主网站 cd520.xyz，需科学上网" [ref=e7] [cursor=pointer]:
+        - /url: https://cd520.xyz
+    - listitem [ref=e8]:
+      - link "备用网站 cd1314.xyz，需科学上网" [ref=e9] [cursor=pointer]:
+        - /url: https://cd1314.xyz
+    - listitem [ref=e10]:
+      - link "备用网站 1.cd1314.xyz，无需科学上网" [ref=e11] [cursor=pointer]:
+        - /url: https://1.cd1314.xyz
+    - listitem [ref=e12]:
+      - link "备用网站 aa.cd1314.xyz，无需科学上网" [ref=e13] [cursor=pointer]:
+        - /url: https://aa.cd1314.xyz
+    - listitem [ref=e14]:
+      - link "备用网站 bb.cd520.xyz，无需科学上网" [ref=e15] [cursor=pointer]:
+        - /url: https://bb.cd520.xyz

@@ -1,0 +1,97 @@
+[
+  {
+    "name": "j20cloud",
+    "url": "https://j20cloud.xyz/auth/register?code=iOAB",
+    "status": "ERROR",
+    "error": "Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://j20cloud.xyz/auth/register"
+  },
+  {
+    "name": "虚坤粉V2",
+    "url": "https://www.cxkv2.xyz/auth/register?code=Nnc6",
+    "status": "ERROR",
+    "error": "Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.cxkv2.xyz/auth/registe"
+  },
+  {
+    "name": "douluos",
+    "url": "https://www.douluos.xyz/auth/register?code=BHmw",
+    "status": "ERROR",
+    "error": "Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.douluos.xyz/auth/regis"
+  },
+  {
+    "name": "月抛云",
+    "url": "https://yuepaoyun.xyz/#/register?code=OFPHXW63",
+    "status": "ERROR",
+    "error": "Page.goto: net::ERR_CONNECTION_CLOSED at https://yuepaoyun.xyz/#/register?code=OFPHXW63\nCall log:\n  "
+  },
+  {
+    "name": "百慕大",
+    "url": "https://v2.bujidao.org/auth/register?code=vu9o",
+    "status": "ERROR",
+    "error": "Page.goto: net::ERR_CONNECTION_CLOSED at https://v2.bujidao.org/auth/register?code=vu9o\nCall log:\n  "
+  },
+  {
+    "name": "FRANXX",
+    "url": "https://www.franxx.cloud/auth/register?code=IcOF",
+    "status": "ERROR",
+    "error": "Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.franxx.cloud/auth/regi"
+  },
+  {
+    "name": "freedog",
+    "url": "https://www.freedog.pw/auth/register?code=Y8h6",
+    "status": "ERROR",
+    "error": "Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://www.freedog.pw/auth/regist"
+  },
+  {
+    "name": "下北沢",
+    "url": "https://panel.testred.xyz/auth/register?code=m4EZ",
+    "status": "CAPTCHA",
+    "captchas": [
+      "recaptcha",
+      "cloudflare"
+    ]
+  },
+  {
+    "name": "NOVACLOUD",
+    "url": "https://www.q88q.cyou/",
+    "status": "CAPTCHA",
+    "captchas": [
+      "cloudflare"
+    ]
+  },
+  {
+    "name": "CLAPSE",
+    "url": "https://user.clapse.com/#/register?code=kf9BGDSY",
+    "status": "ERROR",
+    "error": "Page.goto: net::ERR_CONNECTION_CLOSED at https://user.clapse.com/#/register?code=kf9BGDSY\nCall log:\n"
+  },
+  {
+    "name": "ALINK123",
+    "url": "https://my.pbap.cc/#/register?code=ahOtFxcN",
+    "status": "ERROR",
+    "error": "Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://my.pbap.cc/#/register?code"
+  },
+  {
+    "name": "网抑云",
+    "url": "http://www.wycloud.cloud/",
+    "status": "ERROR",
+    "error": "Page.goto: net::ERR_EMPTY_RESPONSE at http://www.wycloud.cloud/\nCall log:\n  - navigating to \"http://"
+  },
+  {
+    "name": "艾可云",
+    "url": "https://www.v2aky.com/#/register?code=NfDNuHQK",
+    "status": "NO_EMAIL_INPUT"
+  },
+  {
+    "name": "IKUUU",
+    "url": "https://ikuuu.co/",
+    "status": "NO_EMAIL_INPUT"
+  },
+  {
+    "name": "Galaxy",
+    "url": "https://www.galaxy-cloud.com/#/register?code=bhemW9UW",
+    "status": "CAPTCHA",
+    "captchas": [
+      "cloudflare"
+    ]
+  }
+]

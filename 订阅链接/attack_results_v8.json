@@ -1,0 +1,67 @@
+[
+  {
+    "name": "cd520",
+    "url": "https://cd520.xyz/",
+    "status": "REG_UNSURE",
+    "subscription": null,
+    "notes": [
+      "Register page: https://cd520.xyz/#/register",
+      "Reg result unclear"
+    ]
+  },
+  {
+    "name": "雨燕云",
+    "url": "https://yuyan.online/",
+    "status": "CAPTCHA",
+    "subscription": null,
+    "notes": [
+      "Register page: https://yuyan.online/#/register",
+      "Captcha detected - needs manual"
+    ]
+  },
+  {
+    "name": "宝贝云",
+    "url": "https://v3ssy.xyz/",
+    "status": "NAVIGATE",
+    "subscription": null,
+    "notes": [
+      "No register form visible, needs deeper navigation"
+    ]
+  },
+  {
+    "name": "besnow",
+    "url": "https://besnow.me/",
+    "status": "NAVIGATE",
+    "subscription": null,
+    "notes": [
+      "No register form visible, needs deeper navigation"
+    ]
+  },
+  {
+    "name": "大哥云",
+    "url": "https://honven20.dgywzc.com/",
+    "status": "NAVIGATE",
+    "subscription": null,
+    "notes": [
+      "No register form visible, needs deeper navigation"
+    ]
+  },
+  {
+    "name": "万达云",
+    "url": "https://www.z1z1.top/",
+    "status": "NAVIGATE",
+    "subscription": null,
+    "notes": [
+      "No register form visible, needs deeper navigation"
+    ]
+  },
+  {
+    "name": "难民机场",
+    "url": "https://nanmin.xyz/",
+    "status": "NAVIGATE",
+    "subscription": null,
+    "notes": [
+      "No register form visible, needs deeper navigation"
+    ]
+  }
+]

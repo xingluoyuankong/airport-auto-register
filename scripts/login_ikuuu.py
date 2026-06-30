@@ -147,6 +147,7 @@ with sync_playwright() as p:
                     """)
                     page.wait_for_timeout(5000)
                     print(f"After register URL: {page.url}")
-                    print(f"Body: {page.evaluate('document.body ? document.body.innerText.substring(0,300) : \"\"')}")
+                    body_text = page.evaluate("document.body ? document.body.innerText.substring(0,300) : ''")
+                    print(f"Body: {body_text}")
     
     browser.close()

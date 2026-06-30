@@ -1,0 +1,265 @@
+[
+  {
+    "name": "NanoCloud-360buy",
+    "url": "https://edu.360buyimg.men",
+    "status": "reachable",
+    "form_elements": [],
+    "has_captcha": false,
+    "captcha_reason": null,
+    "email_accepted": null,
+    "subscription_direct": false,
+    "subscription_url": null,
+    "registered": false,
+    "notes": [],
+    "final_url": "https://edu.360buyimg.men/",
+    "title": "首页 - NanoCloud",
+    "register_form_elements": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "",
+        "placeholder": "",
+        "id": "var-input-113",
+        "value": "",
+        "text": "",
+        "label": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "",
+        "placeholder": "",
+        "id": "",
+        "value": "",
+        "text": "",
+        "label": ""
+      },
+      {
+        "tag": "input",
+        "type": "password",
+        "name": "",
+        "placeholder": "",
+        "id": "var-input-136",
+        "value": "",
+        "text": "",
+        "label": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "",
+        "placeholder": "",
+        "id": "",
+        "value": "",
+        "text": "",
+        "label": ""
+      },
+      {
+        "tag": "input",
+        "type": "password",
+        "name": "",
+        "placeholder": "",
+        "id": "var-input-143",
+        "value": "",
+        "text": "",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "name": "NanoCloud-yuque",
+    "url": "https://edu.yuque.men",
+    "status": "reachable",
+    "form_elements": [],
+    "has_captcha": false,
+    "captcha_reason": null,
+    "email_accepted": null,
+    "subscription_direct": false,
+    "subscription_url": null,
+    "registered": false,
+    "notes": [],
+    "final_url": "https://edu.yuque.men/",
+    "title": "首页 - NanoCloud",
+    "register_form_elements": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "",
+        "placeholder": "",
+        "id": "var-input-113",
+        "value": "",
+        "text": "",
+        "label": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "",
+        "placeholder": "",
+        "id": "",
+        "value": "",
+        "text": "",
+        "label": ""
+      },
+      {
+        "tag": "input",
+        "type": "password",
+        "name": "",
+        "placeholder": "",
+        "id": "var-input-136",
+        "value": "",
+        "text": "",
+        "label": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "",
+        "placeholder": "",
+        "id": "",
+        "value": "",
+        "text": "",
+        "label": ""
+      },
+      {
+        "tag": "input",
+        "type": "password",
+        "name": "",
+        "placeholder": "",
+        "id": "var-input-143",
+        "value": "",
+        "text": "",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "name": "BoostNet",
+    "url": "https://www.boostnet.top",
+    "status": "error",
+    "form_elements": [],
+    "has_captcha": false,
+    "captcha_reason": null,
+    "email_accepted": null,
+    "subscription_direct": false,
+    "subscription_url": null,
+    "registered": false,
+    "notes": [
+      "Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.boostnet.top/\nCall log:\n  - navigating to \"https://www.boostnet.top/\", waiting until \"domcontentloaded\"\n",
+      "Connection refused/closed"
+    ]
+  },
+  {
+    "name": "一元中转",
+    "url": "https://www.xn--9kqw2h015j2lg.site",
+    "status": "error",
+    "form_elements": [],
+    "has_captcha": false,
+    "captcha_reason": null,
+    "email_accepted": null,
+    "subscription_direct": false,
+    "subscription_url": null,
+    "registered": false,
+    "notes": [
+      "Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.xn--9kqw2h015j2lg.site/\nCall log:\n  - navigating to \"https://www.xn--9kqw2h015j2lg.site/\", waiting until \"domcontentloaded\"\n",
+      "Connection refused/closed"
+    ]
+  },
+  {
+    "name": "一分机场",
+    "url": "https://xn--z7xv9z0vo1e.top",
+    "status": "error",
+    "form_elements": [],
+    "has_captcha": false,
+    "captcha_reason": null,
+    "email_accepted": null,
+    "subscription_direct": false,
+    "subscription_url": null,
+    "registered": false,
+    "notes": [
+      "Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://xn--z7xv9z0vo1e.top/\nCall log:\n  - navigating to \"https://xn--z7xv9z0vo1e.top/\", waiting until \"domcontentloaded\"\n",
+      "Connection refused/closed"
+    ]
+  },
+  {
+    "name": "69云-fly99",
+    "url": "https://69.fly99.xyz",
+    "status": "error",
+    "form_elements": [],
+    "has_captcha": false,
+    "captcha_reason": null,
+    "email_accepted": null,
+    "subscription_direct": false,
+    "subscription_url": null,
+    "registered": false,
+    "notes": [
+      "Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://69.fly99.xyz/\nCall log:\n  - navigating to \"https://69.fly99.xyz/\", waiting until \"domcontentloaded\"\n",
+      "Connection refused/closed"
+    ]
+  },
+  {
+    "name": "猫猴VPN",
+    "url": "https://www.nekohou.com",
+    "status": "error",
+    "form_elements": [],
+    "has_captcha": false,
+    "captcha_reason": null,
+    "email_accepted": null,
+    "subscription_direct": false,
+    "subscription_url": null,
+    "registered": false,
+    "notes": [
+      "Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.nekohou.com/\nCall log:\n  - navigating to \"https://www.nekohou.com/\", waiting until \"domcontentloaded\"\n",
+      "Connection refused/closed"
+    ]
+  },
+  {
+    "name": "白嫖机场",
+    "url": "https://www.xn--fctv8v9uh5rc.com",
+    "status": "error",
+    "form_elements": [],
+    "has_captcha": false,
+    "captcha_reason": null,
+    "email_accepted": null,
+    "subscription_direct": false,
+    "subscription_url": null,
+    "registered": false,
+    "notes": [
+      "Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.xn--fctv8v9uh5rc.com/\nCall log:\n  - navigating to \"https://www.xn--fctv8v9uh5rc.com/\", waiting until \"domcontentloaded\"\n",
+      "Connection refused/closed"
+    ]
+  },
+  {
+    "name": "FSCloud",
+    "url": "https://fscloud.one",
+    "status": "reachable",
+    "form_elements": [],
+    "has_captcha": false,
+    "captcha_reason": null,
+    "email_accepted": null,
+    "subscription_direct": false,
+    "subscription_url": null,
+    "registered": false,
+    "notes": [],
+    "final_url": "https://www.fscloud.one/",
+    "title": "SuziTea Official Site",
+    "register_form_elements": []
+  },
+  {
+    "name": "农夫山泉-nfsq",
+    "url": "https://www.nfsq.xyz",
+    "status": "reachable",
+    "form_elements": [],
+    "has_captcha": false,
+    "captcha_reason": null,
+    "email_accepted": null,
+    "subscription_direct": false,
+    "subscription_url": null,
+    "registered": false,
+    "notes": [
+      "Could not find registration link/button"
+    ],
+    "final_url": "https://www.nfsq.xyz/",
+    "title": "Loading https://forsale.godaddy.com/forsale/www.nfsq.xyz?utm_source=TDFS_BINNS2&utm_medium=parkedpages&utm_campaign=x_corp_tdfs-binns2_base&traffic_type=TDFS_BINNS2&traffic_id=binns2&"
+  }
+]

@@ -1,0 +1,214 @@
+# V24 Airport Results - 2026-06-28T15:00:03.688Z
+
+=== #1/20 ===
+
+🎯 j20cloud | 无需邮箱验证 14天20G
+   URL: https://j20cloud.xyz/auth/register?code=iOAB
+  ❌ GOTO FAILED: page.goto: net::ERR_CONNECTION_CLOSED at https://j20cloud.xyz/auth/register?code
+❌ j20cloud: GOTO_FAILED page.goto: net::ERR_CONNECTION_CLOSED at https://j20cloud.xyz/auth/register?code
+
+=== #2/20 ===
+
+🎯 FRANXX | 10天5G 可临时邮
+   URL: https://www.franxx.cloud/auth/register?code=IcOF
+  ❌ GOTO FAILED: page.goto: net::ERR_CONNECTION_CLOSED at https://www.franxx.cloud/auth/register?
+❌ FRANXX: GOTO_FAILED page.goto: net::ERR_CONNECTION_CLOSED at https://www.franxx.cloud/auth/register?
+
+=== #3/20 ===
+
+🎯 虚坤粉V2 | 1天很多T 邮箱随便输
+   URL: https://www.cxkv2.xyz/auth/register?code=Nnc6
+  ❌ GOTO FAILED: page.goto: net::ERR_CONNECTION_CLOSED at https://www.cxkv2.xyz/auth/register?cod
+❌ 虚坤粉V2: GOTO_FAILED page.goto: net::ERR_CONNECTION_CLOSED at https://www.cxkv2.xyz/auth/register?cod
+
+=== #4/20 ===
+
+🎯 douluos | 1天2G 邮箱随便填
+   URL: https://www.douluos.xyz/auth/register?code=BHmw
+  ❌ GOTO FAILED: page.goto: Navigation to "https://www.douluos.xyz/auth/register?code=BHmw" is in
+❌ douluos: GOTO_FAILED page.goto: Navigation to "https://www.douluos.xyz/auth/register?code=BHmw" is in
+
+=== #5/20 ===
+
+🎯 维尼云 | 不验证邮箱 永久白嫖
+   URL: https://dlj.tf/bHDAXBj
+  Page: File not found.
+  ⚠️ No email input found
+❌ 维尼云: NO_FORM 
+
+=== #6/20 ===
+
+🎯 mxyssr | 2天VIP1 50G
+   URL: https://www.mxyssr.fun/auth/register?code=smw8
+  Page: Search
+Contact Us
+Login
+Fresh Listings Daily
+Powerful Domain Insights
+No Hidden Costs, Or Registration Fees
+Trusted by Professionals
+Fresh Listings Daily
+Powerful Domain Insights
+No Hidden Costs, Or R
+  ⚠️ No email input found
+❌ mxyssr: NO_FORM 
+
+=== #7/20 ===
+
+🎯 freedog | 3天10G
+   URL: https://www.freedog.pw/auth/register?code=Y8h6
+  ❌ GOTO FAILED: page.goto: net::ERR_CONNECTION_CLOSED at https://www.freedog.pw/auth/register?co
+❌ freedog: GOTO_FAILED page.goto: net::ERR_CONNECTION_CLOSED at https://www.freedog.pw/auth/register?co
+
+=== #8/20 ===
+
+🎯 v4speed | 2天5G
+   URL: https://v4speed.com/#/register?code=ew6t6ilb
+  ❌ GOTO FAILED: page.goto: Navigation to "https://v4speed.com/#/register?code=ew6t6ilb" is inter
+❌ v4speed: GOTO_FAILED page.goto: Navigation to "https://v4speed.com/#/register?code=ew6t6ilb" is inter
+
+=== #9/20 ===
+
+🎯 逸云 | 7天10G
+   URL: https://yiyun.cyou/#/register?code=EQrig469
+  ❌ GOTO FAILED: page.goto: Navigation to "https://yiyun.cyou/#/register?code=EQrig469" is interr
+❌ 逸云: GOTO_FAILED page.goto: Navigation to "https://yiyun.cyou/#/register?code=EQrig469" is interr
+
+=== #10/20 ===
+
+🎯 00xyz | 15天20GB
+   URL: https://00xyz.xyz/#/register?code=THCRgF2v
+  ❌ GOTO FAILED: page.goto: net::ERR_CONNECTION_CLOSED at https://00xyz.xyz/#/register?code=THCRg
+❌ 00xyz: GOTO_FAILED page.goto: net::ERR_CONNECTION_CLOSED at https://00xyz.xyz/#/register?code=THCRg
+
+=== #11/20 ===
+
+🎯 月抛云 | 30天256G
+   URL: https://yuepaoyun.xyz/#/register?code=OFPHXW63
+  ❌ GOTO FAILED: page.goto: net::ERR_CONNECTION_CLOSED at https://yuepaoyun.xyz/#/register?code=O
+❌ 月抛云: GOTO_FAILED page.goto: net::ERR_CONNECTION_CLOSED at https://yuepaoyun.xyz/#/register?code=O
+
+=== #12/20 ===
+
+🎯 快乐星球 | 一年试用30G/月
+   URL: https://zy.klxqiu.co/#/register?code=ORFpEx8Z
+  ❌ GOTO FAILED: page.goto: Navigation to "https://zy.klxqiu.co/#/register?code=ORFpEx8Z" is inte
+❌ 快乐星球: GOTO_FAILED page.goto: Navigation to "https://zy.klxqiu.co/#/register?code=ORFpEx8Z" is inte
+
+=== #13/20 ===
+
+🎯 小花 | 1天5G
+   URL: https://m.xhhv2.com/auth/register?code=AZ7S
+  ❌ GOTO FAILED: page.goto: net::ERR_CONNECTION_CLOSED at https://m.xhhv2.com/auth/register?code=
+❌ 小花: GOTO_FAILED page.goto: net::ERR_CONNECTION_CLOSED at https://m.xhhv2.com/auth/register?code=
+
+=== #14/20 ===
+
+🎯 跨越长城 | 8天10G
+   URL: https://direct.gfwservice.xyz/#/register?code=F94wAx08
+  ❌ GOTO FAILED: page.goto: net::ERR_SSL_UNRECOGNIZED_NAME_ALERT at https://direct.gfwservice.xyz
+❌ 跨越长城: GOTO_FAILED page.goto: net::ERR_SSL_UNRECOGNIZED_NAME_ALERT at https://direct.gfwservice.xyz
+
+=== #15/20 ===
+
+🎯 桔子云 | 3个月10G
+   URL: https://juzicloud.net/auth/register?code=4ct1
+  ❌ GOTO FAILED: page.goto: Navigation to "https://juzicloud.net/auth/register?code=4ct1" is inte
+❌ 桔子云: GOTO_FAILED page.goto: Navigation to "https://juzicloud.net/auth/register?code=4ct1" is inte
+
+=== #16/20 ===
+
+🎯 NOVACLOUD | 每日签到白嫖
+   URL: https://www.q88q.cyou/
+  ❌ GOTO FAILED: page.goto: Navigation to "https://www.q88q.cyou/" is interrupted by another navi
+❌ NOVACLOUD: GOTO_FAILED page.goto: Navigation to "https://www.q88q.cyou/" is interrupted by another navi
+
+=== #17/20 ===
+
+🎯 艾可云 | 1天2G
+   URL: https://www.v2aky.com/#/register?code=NfDNuHQK
+  ❌ GOTO FAILED: page.goto: Navigation to "https://www.v2aky.com/#/register?code=NfDNuHQK" is int
+❌ 艾可云: GOTO_FAILED page.goto: Navigation to "https://www.v2aky.com/#/register?code=NfDNuHQK" is int
+
+=== #18/20 ===
+
+🎯 云翼星辰 | 1天500G
+   URL: https://v2.yyxc.cc/#/register?code=gNzdhMIE
+  ❌ GOTO FAILED: page.goto: net::ERR_CONNECTION_CLOSED at https://v2.yyxc.cc/#/register?code=gNzd
+❌ 云翼星辰: GOTO_FAILED page.goto: net::ERR_CONNECTION_CLOSED at https://v2.yyxc.cc/#/register?code=gNzd
+
+=== #19/20 ===
+
+🎯 晓云 | 1天1G
+   URL: https://www.xiaoxiaoyun.xyz/auth/register?code=0juV
+  ❌ GOTO FAILED: page.goto: Timeout 15000ms exceeded.
+Call log:
+[2m  - navigating to "https://ww
+❌ 晓云: GOTO_FAILED page.goto: Timeout 15000ms exceeded.
+Call log:
+[2m  - navigating to "https://ww
+
+=== #20/20 ===
+
+🎯 TANZCLOUD | 3天8G
+   URL: https://www.tanz.website/auth/register?code=ssfJ
+  Page: 注册
+昵称
+邮箱
+@qq.com
+@outlook.com
+@hotmail.com
+@gmail.com
+@163.com
+@126.com
+@yahoo.com
+@yeah.net
+@foxmail.com
+@sina.com
+@live.com
+密码
+确认密码
+点击按钮进行验证
+注册即代表同意 服务条款
+注册
+已经有账号了？马上登录 👉
+版权所有 © 2019-2024 飞毯加速 保留所有
+  Suffix: @outlook.com
+  Email: "freetest2026_mqxx0w6g"
+  Password filled
+  Clicking: "注册"
+  Clicked at 23:01:18
+  After: https://www.tanz.website/auth/register
+  → Redirected to login. Register may have succeeded, try login.
+❌ TANZCLOUD: REDIRECTED_TO_LOGIN 
+
+=== V24 COMPLETE ===
+
+✅ SUBSCRIPTIONS OBTAINED: 0
+
+=== NON-SUB RESULTS ===
+  j20cloud: GOTO_FAILED - page.goto: net::ERR_CONNECTION_CLOSED at https://j20cloud.xyz/auth/register?code
+  FRANXX: GOTO_FAILED - page.goto: net::ERR_CONNECTION_CLOSED at https://www.franxx.cloud/auth/register?
+  虚坤粉V2: GOTO_FAILED - page.goto: net::ERR_CONNECTION_CLOSED at https://www.cxkv2.xyz/auth/register?cod
+  douluos: GOTO_FAILED - page.goto: Navigation to "https://www.douluos.xyz/auth/register?code=BHmw" is in
+  维尼云: NO_FORM - 
+  mxyssr: NO_FORM - 
+  freedog: GOTO_FAILED - page.goto: net::ERR_CONNECTION_CLOSED at https://www.freedog.pw/auth/register?co
+  v4speed: GOTO_FAILED - page.goto: Navigation to "https://v4speed.com/#/register?code=ew6t6ilb" is inter
+  逸云: GOTO_FAILED - page.goto: Navigation to "https://yiyun.cyou/#/register?code=EQrig469" is interr
+  00xyz: GOTO_FAILED - page.goto: net::ERR_CONNECTION_CLOSED at https://00xyz.xyz/#/register?code=THCRg
+  月抛云: GOTO_FAILED - page.goto: net::ERR_CONNECTION_CLOSED at https://yuepaoyun.xyz/#/register?code=O
+  快乐星球: GOTO_FAILED - page.goto: Navigation to "https://zy.klxqiu.co/#/register?code=ORFpEx8Z" is inte
+  小花: GOTO_FAILED - page.goto: net::ERR_CONNECTION_CLOSED at https://m.xhhv2.com/auth/register?code=
+  跨越长城: GOTO_FAILED - page.goto: net::ERR_SSL_UNRECOGNIZED_NAME_ALERT at https://direct.gfwservice.xyz
+  桔子云: GOTO_FAILED - page.goto: Navigation to "https://juzicloud.net/auth/register?code=4ct1" is inte
+  NOVACLOUD: GOTO_FAILED - page.goto: Navigation to "https://www.q88q.cyou/" is interrupted by another navi
+  艾可云: GOTO_FAILED - page.goto: Navigation to "https://www.v2aky.com/#/register?code=NfDNuHQK" is int
+  云翼星辰: GOTO_FAILED - page.goto: net::ERR_CONNECTION_CLOSED at https://v2.yyxc.cc/#/register?code=gNzd
+  晓云: GOTO_FAILED - page.goto: Timeout 15000ms exceeded.
+Call log:
+[2m  - navigating to "https://ww
+  TANZCLOUD: REDIRECTED_TO_LOGIN - 3天8G
+
+Results saved to: E:\API获取工具\自动集成免费代理服务\01-机场VPN注册机\订阅链接/v24_results.json
+Browser open. Close to exit.

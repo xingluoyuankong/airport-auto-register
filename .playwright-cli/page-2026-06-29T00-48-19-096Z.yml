@@ -1,0 +1,71 @@
+- generic [ref=e1]:
+  - generic [ref=e6]:
+    - img "logo" [ref=e8]
+    - generic [ref=e9]:
+      - heading "注册" [level=4] [ref=e11]
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - generic [ref=e16]: 昵称
+            - textbox "昵称" [ref=e17]: 风暴猎人666
+          - generic [ref=e18]:
+            - generic [ref=e19]: 邮箱
+            - generic [ref=e20]:
+              - textbox "邮箱" [ref=e21]: mx4496f269fa
+              - combobox [ref=e22]:
+                - option "@qq.com"
+                - option "@outlook.com"
+                - option "@hotmail.com" [selected]
+                - option "@gmail.com"
+                - option "@163.com"
+                - option "@126.com"
+                - option "@yahoo.com"
+                - option "@yeah.net"
+                - option "@foxmail.com"
+                - option "@sina.com"
+                - option "@live.com"
+        - generic [ref=e23]:
+          - generic [ref=e24]:
+            - generic [ref=e25]: 密码
+            - textbox "密码" [ref=e26]: VpnTest2026!
+          - generic [ref=e29]:
+            - generic [ref=e30]: 确认密码
+            - textbox "确认密码" [ref=e31]: VpnTest2026!
+        - generic [ref=e36]:
+          - generic "请完成验证" [ref=e73]:
+            - generic "请完成验证" [active] [ref=e74]
+            - link [ref=e48] [cursor=pointer]:
+              - /url: https://www.geetest.com/first_page
+          - link [ref=e58] [cursor=pointer]:
+            - /url: https://www.geetest.com/first_page
+        - generic [ref=e64]:
+          - checkbox "注册即代表同意 服务条款" [checked] [ref=e65]
+          - generic [ref=e66]:
+            - text: 注册即代表同意
+            - link "服务条款" [ref=e67] [cursor=pointer]:
+              - /url: /tos
+        - button "注册" [ref=e69] [cursor=pointer]
+    - generic [ref=e70]:
+      - text: 已经有账号了？
+      - link "马上登录 👉" [ref=e71] [cursor=pointer]:
+        - /url: /auth/login
+    - generic [ref=e72]: 版权所有 © 2019-2024 飞毯加速 保留所有权利
+  - generic [ref=e77]:
+    - generic [ref=e78]:
+      - generic [ref=e80]:
+        - link:
+          - /url: https://api.geevisit.com/click.php?challenge=d104a09b4e0186a939bdb1ce4f2ad9bfid
+        - button "刷新验证"
+      - generic [ref=e89]: 拖动滑块完成拼图
+    - generic [ref=e91]:
+      - generic [ref=e92]:
+        - button "关闭验证" [ref=e93] [cursor=pointer]:
+          - generic [ref=e94]: 关闭验证
+        - button "刷新验证" [ref=e95] [cursor=pointer]:
+          - generic [ref=e96]: 刷新验证
+        - link "帮助反馈" [ref=e97] [cursor=pointer]:
+          - /url: http://www.geetest.com/contact#report&challenge=d104a09b4e0186a939bdb1ce4f2ad9bfid
+          - generic [ref=e98]: 帮助反馈
+      - link "极验" [ref=e99] [cursor=pointer]:
+        - /url: https://www.geetest.com/first_page
+        - generic [ref=e101]: 极验

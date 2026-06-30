@@ -1,0 +1,114 @@
+- generic [ref=e1]:
+  - generic [ref=e35]:
+    - navigation [ref=e36]:
+      - generic [ref=e38]:
+        - link "大哥云" [ref=e39] [cursor=pointer]:
+          - /url: /
+        - text: 
+      - list [ref=e41]:
+        - listitem [ref=e42]:
+          - generic [ref=e43] [cursor=pointer]:
+            - generic [ref=e44]: 
+            - generic [ref=e45]: 仪表盘
+        - listitem [ref=e46]:
+          - generic [ref=e47] [cursor=pointer]:
+            - generic [ref=e48]: 
+            - generic [ref=e49]: 使用文档
+        - listitem [ref=e50]: 订阅
+        - listitem [ref=e51]:
+          - generic [ref=e52] [cursor=pointer]:
+            - generic [ref=e53]: 
+            - generic [ref=e54]: 购买订阅
+        - listitem [ref=e55]:
+          - generic [ref=e56] [cursor=pointer]:
+            - generic [ref=e57]: 
+            - generic [ref=e58]: 节点状态
+        - listitem [ref=e59]: 财务
+        - listitem [ref=e60]:
+          - generic [ref=e61] [cursor=pointer]:
+            - generic [ref=e62]: 
+            - generic [ref=e63]: 我的订单
+        - listitem [ref=e64]:
+          - generic [ref=e65] [cursor=pointer]:
+            - generic [ref=e66]: 
+            - generic [ref=e67]: 我的邀请
+        - listitem [ref=e68]: 用户
+        - listitem [ref=e69]:
+          - generic [ref=e70] [cursor=pointer]:
+            - generic [ref=e71]: 
+            - generic [ref=e72]: 个人中心
+        - listitem [ref=e73]:
+          - generic [ref=e74] [cursor=pointer]:
+            - generic [ref=e75]: 
+            - generic [ref=e76]: 我的工单
+        - listitem [ref=e77]:
+          - generic [ref=e78] [cursor=pointer]:
+            - generic [ref=e79]: 
+            - generic [ref=e80]: 流量明细
+      - generic [ref=e81]: 大哥云 v1.7.4
+    - banner [ref=e82]:
+      - generic [ref=e83]:
+        - text: 
+        - generic [ref=e84]: 仪表盘
+        - generic [ref=e85]:
+          - button "" [ref=e87] [cursor=pointer]:
+            - generic [ref=e88]: 
+          - button "" [ref=e90] [cursor=pointer]:
+            - generic [ref=e91]: 
+          - generic [ref=e92]:
+            - button " dageyun_test_2026@outlook.com " [ref=e93] [cursor=pointer]:
+              - generic [ref=e94]: 
+              - text: dageyun_test_2026@outlook.com
+              - generic [ref=e95]: 
+            - text:  
+    - main [ref=e96]:
+      - generic [ref=e97]:
+        - link "公告 2026.4.5 | 订阅连接变更 2026-04-05" [ref=e100] [cursor=pointer]:
+          - /url: javascript:void(0)
+          - generic [ref=e101]:
+            - paragraph [ref=e103]:
+              - generic [ref=e104]: 公告
+            - paragraph [ref=e105]: 2026.4.5 | 订阅连接变更
+            - paragraph [ref=e106]: 2026-04-05
+        - generic [ref=e109]:
+          - heading "我的订阅" [level=3] [ref=e111]
+          - generic [ref=e115] [cursor=pointer]:
+            - generic [ref=e117]: 
+            - generic [ref=e118]: 购买订阅
+        - generic [ref=e121]:
+          - heading "捷径" [level=3] [ref=e123]
+          - generic [ref=e126]:
+            - generic [ref=e127] [cursor=pointer]:
+              - generic [ref=e128]: 查看教程
+              - generic [ref=e129]: 学习如何使用 大哥云
+              - generic [ref=e130]: 
+            - generic [ref=e131] [cursor=pointer]:
+              - generic [ref=e132]: 一键订阅
+              - generic [ref=e133]: 快速将节点导入对应客户端进行使用
+              - generic [ref=e134]: 
+            - generic [ref=e135] [cursor=pointer]:
+              - generic [ref=e136]: 购买订阅
+              - generic [ref=e137]: 对您当前的订阅进行购买
+              - generic [ref=e138]: 
+            - generic [ref=e139] [cursor=pointer]:
+              - generic [ref=e140]: 遇到问题
+              - generic [ref=e141]: 遇到问题可以通过工单与我们沟通
+              - generic [ref=e142]: 
+  - dialog "2026.4.5 | 订阅连接变更" [ref=e144]:
+    - document:
+      - generic [ref=e145]:
+        - button "Close" [ref=e146] [cursor=pointer]:
+          - 'generic "图标: close" [ref=e148]':
+            - img [ref=e149]
+        - generic [ref=e152]: 2026.4.5 | 订阅连接变更
+        - generic [ref=e154]:
+          - text: 不能订阅的用户 ，请及时复制最新的订阅连接更新订阅 安卓的clash 不能订阅的 下载最新的这个客户端
+          - paragraph [ref=e155]:
+            - text: 客户端下载：
+            - link "Clash Meta" [ref=e156] [cursor=pointer]:
+              - /url: https://gitlab.com/bvpn/client/-/raw/main/cmfa-2.11.25-meta-arm64-v8a-release.apk
+              - strong [ref=e157]: Clash Meta
+          - paragraph [ref=e158]:
+            - text: 客户端下载：
+            - link "备用下载1" [ref=e159] [cursor=pointer]:
+              - /url: https://gh-proxy.org/https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.23/cmfa-2.11.23-meta-arm64-v8a-release.apk

@@ -1,0 +1,46 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - img [ref=e8]
+    - heading "FlyBit" [level=5] [ref=e9]
+    - generic [ref=e11]:
+      - generic [ref=e14]:
+        - textbox "邮箱" [active] [ref=e15]
+        - generic:
+          - generic: 邮箱
+      - generic [ref=e52] [cursor=pointer]:
+        - generic "@qq.com" [ref=e53]:
+          - generic [ref=e54]: "@qq.com"
+        - img "loading" [ref=e55]:
+          - img [ref=e60]
+    - generic [ref=e63]:
+      - generic [ref=e66]:
+        - textbox "邮箱验证码" [ref=e67]
+        - generic:
+          - generic: 邮箱验证码
+      - button "发送" [ref=e68] [cursor=pointer]:
+        - generic [ref=e69]: 发送
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - textbox "密码" [ref=e20]
+        - generic:
+          - generic: 密码
+      - img [ref=e24] [cursor=pointer]
+    - generic [ref=e72]:
+      - generic [ref=e73]:
+        - textbox "再次输入密码" [ref=e74]
+        - generic:
+          - generic: 再次输入密码
+      - img [ref=e78] [cursor=pointer]
+    - generic [ref=e87]:
+      - textbox "邀请码,（选填）" [ref=e88]
+      - generic:
+        - generic: 邀请码（选填）
+    - button "注册" [ref=e89] [cursor=pointer]:
+      - img [ref=e33]
+      - generic [ref=e36]: 注册
+  - generic [ref=e37]:
+    - link "返回登入" [ref=e90] [cursor=pointer]:
+      - /url: "#/login"
+    - button "简体中文" [ref=e43] [cursor=pointer]:
+      - img [ref=e45]
+      - generic [ref=e49]: 简体中文

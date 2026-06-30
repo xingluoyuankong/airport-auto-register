@@ -1,0 +1,246 @@
+- generic [ref=e1]:
+  - generic [ref=e79]:
+    - generic:
+      - generic [ref=e80]:
+        - img "Logo" [ref=e81]
+        - text: sslar
+      - generic [ref=e84]:
+        - link "仪表盘" [ref=e85] [cursor=pointer]:
+          - /url: "#/dashboard"
+          - img [ref=e87]
+          - generic [ref=e89]: 仪表盘
+        - link "商店 热销" [active] [ref=e90] [cursor=pointer]:
+          - /url: "#/shop"
+          - img [ref=e92]
+          - generic [ref=e97]: 商店
+          - generic [ref=e98]: 热销
+        - link "邀请 返利" [ref=e99] [cursor=pointer]:
+          - /url: "#/invite"
+          - img [ref=e101]
+          - generic [ref=e104]: 邀请
+          - generic [ref=e105]: 返利
+        - link "更多" [ref=e106] [cursor=pointer]:
+          - /url: "#/more"
+          - img [ref=e108]
+          - generic [ref=e109]: 更多
+      - generic [ref=e110]:
+        - button "切换主题" [ref=e111] [cursor=pointer]:
+          - img [ref=e113]
+        - generic [ref=e119]:
+          - generic:
+            - img "中文"
+            - img "English"
+            - img "繁體中文"
+            - img "日本語"
+            - img "한국어"
+            - img "Русский"
+            - img "فارسی"
+          - button "简体中文" [ref=e120] [cursor=pointer]:
+            - img "简体中文" [ref=e123]
+        - button [ref=e124] [cursor=pointer]:
+          - img [ref=e125]
+        - img [ref=e132] [cursor=pointer]
+    - generic [ref=e218]:
+      - generic [ref=e219]:
+        - heading "商店" [level=2] [ref=e221]
+        - paragraph [ref=e223]: 查看并购买可用的套餐
+      - generic [ref=e224]:
+        - generic [ref=e225]:
+          - img [ref=e227]
+          - generic [ref=e231]:
+            - generic [ref=e232]: 全球节点
+            - generic [ref=e233]: 遍布全球的高速节点
+        - generic [ref=e234]:
+          - img [ref=e236]
+          - generic [ref=e238]:
+            - generic [ref=e239]: 极速体验
+            - generic [ref=e240]: 高速稳定的网络体验
+        - generic [ref=e241]:
+          - img [ref=e243]
+          - generic [ref=e246]:
+            - generic [ref=e247]: 流媒体解锁
+            - generic [ref=e248]: 解锁各类流媒体服务
+        - generic [ref=e249]:
+          - img [ref=e251]
+          - generic [ref=e254]:
+            - generic [ref=e255]: 多设备支持
+            - generic [ref=e256]: 同时支持多台设备使用
+      - generic [ref=e258]:
+        - generic [ref=e259] [cursor=pointer]:
+          - img [ref=e261]
+          - generic [ref=e264]: 全部
+        - generic [ref=e265] [cursor=pointer]:
+          - img [ref=e267]
+          - generic [ref=e269]: 周期性
+        - generic [ref=e270] [cursor=pointer]:
+          - img [ref=e272]
+          - generic [ref=e274]: 一次性
+      - generic [ref=e275]:
+        - generic [ref=e276]:
+          - generic [ref=e277]:
+            - heading "Basic" [level=2] [ref=e278]
+            - generic [ref=e279]:
+              - img [ref=e280]
+              - generic [ref=e284]: 库存充足
+          - generic [ref=e285]:
+            - generic [ref=e286]:
+              - generic [ref=e287]: ¥17.00 / 月付
+              - generic [ref=e289]:
+                - generic [ref=e290] [cursor=pointer]:
+                  - img [ref=e291]
+                  - text: 月付
+                - generic [ref=e293] [cursor=pointer]:
+                  - img [ref=e294]
+                  - text: 季度
+                - generic [ref=e296] [cursor=pointer]:
+                  - img [ref=e297]
+                  - text: 半年
+                - generic [ref=e299] [cursor=pointer]:
+                  - img [ref=e300]
+                  - text: 一年
+                - generic [ref=e302]:
+                  - img [ref=e303]
+                  - text: 两年
+                - generic [ref=e306]:
+                  - img [ref=e307]
+                  - text: 三年
+                - generic [ref=e310]:
+                  - img [ref=e311]
+                  - text: 一次性
+            - generic [ref=e315]: 一年 相对折扣大约 20%，为您节省 ¥41.00
+            - list [ref=e318]:
+              - listitem [ref=e319]: 100 GB 流量/月，每月购买日重置流量
+              - listitem [ref=e320]: 支持ChatGPT/Tiktok
+              - listitem [ref=e321]: Netfilx/Hulu/Hbo/Disney+/Dazn等流媒体支持
+              - listitem [ref=e322]: 带宽冗余10Gbps，无设备数限制
+              - listitem [ref=e323]: 独有加密隧道传输
+            - button "购买" [ref=e324] [cursor=pointer]:
+              - img [ref=e325]
+              - generic [ref=e330]: 购买
+        - generic [ref=e331]:
+          - generic [ref=e332]:
+            - heading "Standard" [level=2] [ref=e333]
+            - generic [ref=e334]:
+              - img [ref=e335]
+              - generic [ref=e339]: 库存充足
+          - generic [ref=e340]:
+            - generic [ref=e341]:
+              - generic [ref=e342]: ¥28.00 / 月付
+              - generic [ref=e344]:
+                - generic [ref=e345] [cursor=pointer]:
+                  - img [ref=e346]
+                  - text: 月付
+                - generic [ref=e348] [cursor=pointer]:
+                  - img [ref=e349]
+                  - text: 季度
+                - generic [ref=e351] [cursor=pointer]:
+                  - img [ref=e352]
+                  - text: 半年
+                - generic [ref=e354] [cursor=pointer]:
+                  - img [ref=e355]
+                  - text: 一年
+                - generic [ref=e357]:
+                  - img [ref=e358]
+                  - text: 两年
+                - generic [ref=e361]:
+                  - img [ref=e362]
+                  - text: 三年
+                - generic [ref=e365]:
+                  - img [ref=e366]
+                  - text: 一次性
+            - generic [ref=e370]: 一年 相对折扣大约 20%，为您节省 ¥68.00
+            - list [ref=e373]:
+              - listitem [ref=e374]: 200 GB 流量/月，每月购买日重置流量
+              - listitem [ref=e375]: 支持ChatGPT/Tiktok
+              - listitem [ref=e376]: Netfilx/Hulu/Hbo/Disney+/Dazn等流媒体支持
+              - listitem [ref=e377]: 带宽冗余10Gbps，无设备数限制
+              - listitem [ref=e378]: 独有加密隧道传输
+              - listitem [ref=e379]: IEPL/IPLC专线负载高SLA
+            - button "购买" [ref=e380] [cursor=pointer]:
+              - img [ref=e381]
+              - generic [ref=e386]: 购买
+        - generic [ref=e387]:
+          - generic [ref=e388]:
+            - heading "Premium" [level=2] [ref=e389]
+            - generic [ref=e390]:
+              - img [ref=e391]
+              - generic [ref=e395]: 库存充足
+          - generic [ref=e396]:
+            - generic [ref=e397]:
+              - generic [ref=e398]: ¥36.00 / 月付
+              - generic [ref=e400]:
+                - generic [ref=e401] [cursor=pointer]:
+                  - img [ref=e402]
+                  - text: 月付
+                - generic [ref=e404] [cursor=pointer]:
+                  - img [ref=e405]
+                  - text: 季度
+                - generic [ref=e407] [cursor=pointer]:
+                  - img [ref=e408]
+                  - text: 半年
+                - generic [ref=e410] [cursor=pointer]:
+                  - img [ref=e411]
+                  - text: 一年
+                - generic [ref=e413]:
+                  - img [ref=e414]
+                  - text: 两年
+                - generic [ref=e417]:
+                  - img [ref=e418]
+                  - text: 三年
+                - generic [ref=e421]:
+                  - img [ref=e422]
+                  - text: 一次性
+            - generic [ref=e426]: 一年 相对折扣大约 20%，为您节省 ¥87.00
+            - list [ref=e429]:
+              - listitem [ref=e430]: 300 GB 流量/月，每月购买日重置流量
+              - listitem [ref=e431]: 支持ChatGPT/Tiktok
+              - listitem [ref=e432]: Netfilx/Hulu/Hbo/Disney+/Dazn等流媒体支持
+              - listitem [ref=e433]: 带宽冗余10Gbps，无设备数限制
+              - listitem [ref=e434]: 独有加密隧道传输
+              - listitem [ref=e435]: IEPL/IPLC专线负载高SLA
+            - button "购买" [ref=e436] [cursor=pointer]:
+              - img [ref=e437]
+              - generic [ref=e442]: 购买
+        - generic [ref=e443]:
+          - generic [ref=e444]:
+            - heading "Tailored Plan" [level=2] [ref=e445]
+            - generic [ref=e446]:
+              - img [ref=e447]
+              - generic [ref=e451]: 库存充足
+          - generic [ref=e452]:
+            - generic [ref=e453]:
+              - generic [ref=e454]: ¥999.00 / 月付
+              - generic [ref=e456]:
+                - generic [ref=e457] [cursor=pointer]:
+                  - img [ref=e458]
+                  - text: 月付
+                - generic [ref=e460]:
+                  - img [ref=e461]
+                  - text: 季度
+                - generic [ref=e464]:
+                  - img [ref=e465]
+                  - text: 半年
+                - generic [ref=e468]:
+                  - img [ref=e469]
+                  - text: 一年
+                - generic [ref=e472]:
+                  - img [ref=e473]
+                  - text: 两年
+                - generic [ref=e476]:
+                  - img [ref=e477]
+                  - text: 三年
+                - generic [ref=e480]:
+                  - img [ref=e481]
+                  - text: 一次性
+            - list [ref=e486]:
+              - listitem [ref=e487]: 500~5000 GB 流量/月
+              - listitem [ref=e488]: 任意流媒体解锁
+              - listitem [ref=e489]: 网络速率 500~2000 Mbps，不限制设备
+              - listitem [ref=e490]: IEPL专线/IPLC专线/隧道传输
+              - listitem [ref=e491]: 可选择美国、香港、台湾、韩国、日本、新加坡、英国、德国、马来西亚等地区双ISP家宽IP
+              - listitem [ref=e492]: 请提交工单获取报价
+            - button "购买" [ref=e493] [cursor=pointer]:
+              - img [ref=e494]
+              - generic [ref=e499]: 购买
+    - img
+  - generic: v0.3.8

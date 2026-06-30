@@ -1,0 +1,30 @@
+- generic [ref=e1]:
+  - generic [ref=e6]:
+    - img "logo" [ref=e8]
+    - generic [ref=e9]:
+      - heading "登录" [level=4] [ref=e11]
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - generic [ref=e15]: 邮箱
+          - textbox "邮箱" [ref=e16]: hendricktamm95v80awzaxli@outlook.com
+        - generic [ref=e17]:
+          - generic [ref=e18]:
+            - generic [ref=e19]: 密码
+            - link "忘记密码？" [ref=e21] [cursor=pointer]:
+              - /url: /password/reset
+          - textbox "密码" [ref=e22]: "@^NdxP5KN#s9G2Hqu0!"
+        - generic [ref=e24]:
+          - checkbox "记住我" [ref=e25]
+          - generic [ref=e26]: 记住我
+        - button "登录" [ref=e28] [cursor=pointer]
+    - generic [ref=e29]:
+      - text: 还没有账号？
+      - link "马上注册 👉" [ref=e30] [cursor=pointer]:
+        - /url: /auth/register
+    - generic [ref=e31]: 版权所有 © 2019-2024 飞毯加速 保留所有权利
+  - dialog "出错了" [ref=e45]:
+    - heading "出错了" [level=2] [ref=e51]
+    - generic [ref=e52]:
+      - generic [ref=e53]: 密码或邮箱不正确
+      - text: "!"
+    - button "OK" [active] [ref=e55] [cursor=pointer]

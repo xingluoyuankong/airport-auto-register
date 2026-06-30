@@ -1,0 +1,386 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - heading "COCODUCK Logo" [level=1] [ref=e5]:
+        - img "COCODUCK Logo" [ref=e6]
+      - generic [ref=e8]:
+        - link "Open user menu" [ref=e9] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e11]:
+            - generic [ref=e12]: floraide3rb1508k2xlbbi@hotmail.com
+            - generic [ref=e13]: 清新的镰刀盔
+        - text:   
+      - list [ref=e16]:
+        - listitem [ref=e17]:
+          - link " 会员中心" [ref=e18] [cursor=pointer]:
+            - /url: /user
+            - generic [ref=e20]: 
+            - generic [ref=e21]: 会员中心
+        - listitem [ref=e22]:
+          - button " 商店" [ref=e23] [cursor=pointer]:
+            - generic [ref=e25]: 
+            - generic [ref=e26]: 商店
+          - text:   
+        - listitem
+        - listitem [ref=e27]:
+          - button " 帮助" [ref=e28] [cursor=pointer]:
+            - generic [ref=e30]: 
+            - generic [ref=e31]: 帮助
+          - text:  
+        - listitem [ref=e32]:
+          - link " 加入我们 " [ref=e33] [cursor=pointer]:
+            - /url: /user/joinus
+            - generic [ref=e35]: 
+            - generic [ref=e36]:
+              - text: 加入我们
+              - generic [ref=e38]: 
+  - generic [ref=e39]:
+    - generic [ref=e42]:
+      - generic [ref=e43]:
+        - heading "会员中心" [level=2] [ref=e44]:
+          - generic [ref=e45]: 会员中心
+        - generic [ref=e46]: 欢迎来到COCODUCK
+      - button " 查看公告" [ref=e48] [cursor=pointer]:
+        - generic [ref=e49]: 
+        - text: 查看公告
+    - generic [ref=e52]:
+      - generic [ref=e55]:
+        - heading "我的套餐" [level=3] [ref=e56]:
+          - generic [ref=e57]: 
+          - text: 我的套餐
+        - paragraph [ref=e58]: 在这里查看您的套餐信息和订阅链接
+        - generic [ref=e59]:
+          - heading "套餐信息" [level=5] [ref=e60]
+          - generic [ref=e62]:
+            - generic [ref=e64]: 
+            - generic [ref=e65]:
+              - heading "🎉 试用体验中" [level=6] [ref=e66]
+              - paragraph [ref=e67]: 您正在享受新用户1天免费试用，试用结束后请购买套餐继续使用
+              - link " 立即购买套餐" [ref=e68] [cursor=pointer]:
+                - /url: /user/product
+                - generic [ref=e69]: 
+                - text: 立即购买套餐
+              - link " 新手教程" [ref=e70] [cursor=pointer]:
+                - /url: https://cocoduck.cc/docs
+                - generic [ref=e71]: 
+                - text: 新手教程
+          - generic [ref=e72]:
+            - generic [ref=e73]:
+              - generic [ref=e74]: 当前流量使用情况
+              - generic [ref=e75]: 833.66KB / 2GB
+            - progressbar [ref=e77]
+            - generic [ref=e78]:
+              - generic [ref=e79]: "已使用: 833.66KB"
+              - generic [ref=e80]: "剩余: 2GB"
+          - generic [ref=e81]:
+            - generic [ref=e82]:
+              - generic [ref=e83]: 套餐到期时间
+              - generic [ref=e84]: 1天试用体验中
+            - generic [ref=e85]:
+              - generic [ref=e86]: 流量重置时间
+              - generic [ref=e87]: 购买长期套餐后显示
+        - generic [ref=e88]:
+          - heading "订阅链接" [level=5] [ref=e89]
+          - generic [ref=e91]:
+            - generic [ref=e92]: 点击自动复制订阅链接，然后下载客户端进行导入
+            - generic [ref=e93]:
+              - button " Clash订阅链接【推荐】" [ref=e94] [cursor=pointer]:
+                - generic [ref=e95]: 
+                - text: Clash订阅链接【推荐】
+              - button " ShadowRocket小火箭" [ref=e96] [cursor=pointer]:
+                - generic [ref=e97]: 
+                - text: ShadowRocket小火箭
+              - button " Quantumult订阅链接" [ref=e98] [cursor=pointer]:
+                - generic [ref=e99]: 
+                - text: Quantumult订阅链接
+              - button " Stash订阅链接" [ref=e100] [cursor=pointer]:
+                - generic [ref=e101]: 
+                - text: Stash订阅链接
+              - button " V2Ray" [ref=e102] [cursor=pointer]:
+                - generic [ref=e103]: 
+                - text: V2Ray
+              - button " Shadowsocks" [ref=e104] [cursor=pointer]:
+                - generic [ref=e105]: 
+                - text: Shadowsocks
+      - generic [ref=e108]:
+        - heading "软件下载" [level=3] [ref=e109]:
+          - generic [ref=e110]: 
+          - text: 软件下载
+        - paragraph [ref=e111]: 推荐优先下载官方客户端, 官方客户端尚未支持的系统请下载第三方客户端
+        - generic [ref=e112]:
+          - heading "COCODUCK官方客户端" [level=5] [ref=e113]
+          - generic [ref=e114]:
+            - link " 安卓移动端 COCODUCK APP" [ref=e116] [cursor=pointer]:
+              - /url: https://dl.cocoduck.cc/cocoduck_mobile_latest.apk
+              - generic [ref=e118]: 
+              - generic [ref=e119]:
+                - generic [ref=e120]: 安卓移动端
+                - generic [ref=e121]: COCODUCK APP
+            - link " 安卓电视端 COCODUCK TV" [ref=e123] [cursor=pointer]:
+              - /url: https://dl.cocoduck.cc/cocoduck_tv_latest.apk
+              - generic [ref=e125]: 
+              - generic [ref=e126]:
+                - generic [ref=e127]: 安卓电视端
+                - generic [ref=e128]: COCODUCK TV
+            - link " Windows PC端 COCODUCK APP" [ref=e130] [cursor=pointer]:
+              - /url: https://dl.cocoduck.cc/cocoduck_windows_latest.exe
+              - generic [ref=e132]: 
+              - generic [ref=e133]:
+                - generic [ref=e134]: Windows PC端
+                - generic [ref=e135]: COCODUCK APP
+          - generic [ref=e136]:
+            - link " MacOS(全芯片通用) COCODUCK APP" [ref=e138] [cursor=pointer]:
+              - /url: https://dl.cocoduck.cc/cocoduck_macos_latest.dmg
+              - generic [ref=e140]: 
+              - generic [ref=e141]:
+                - generic [ref=e142]: MacOS(全芯片通用)
+                - generic [ref=e143]: COCODUCK APP
+            - generic [ref=e145]:
+              - generic [ref=e147]: 
+              - generic [ref=e148]:
+                - generic [ref=e149]: iOS
+                - generic [ref=e150]: 开发中
+            - generic [ref=e152]:
+              - generic [ref=e154]: 
+              - generic [ref=e155]:
+                - generic [ref=e156]: OpenWRT
+                - generic [ref=e157]: 开发中
+        - generic [ref=e158]:
+          - heading "第三方客户端" [level=5] [ref=e159]
+          - generic [ref=e160]:
+            - link " iOS ShadowRocket" [ref=e162] [cursor=pointer]:
+              - /url: https://cocoduck.cc/docs/shadowrocket/
+              - generic [ref=e164]: 
+              - generic [ref=e165]:
+                - generic [ref=e166]: iOS
+                - generic [ref=e167]: ShadowRocket
+            - link " Android Clash Meta" [ref=e169] [cursor=pointer]:
+              - /url: https://dl.cocoduck.cc/cmfa_latest.apk
+              - generic [ref=e171]: 
+              - generic [ref=e172]:
+                - generic [ref=e173]: Android
+                - generic [ref=e174]: Clash Meta
+            - link " Windows Clash Verge" [ref=e176] [cursor=pointer]:
+              - /url: https://dl.cocoduck.cc/clash.verge_latest_win.exe
+              - generic [ref=e178]: 
+              - generic [ref=e179]:
+                - generic [ref=e180]: Windows
+                - generic [ref=e181]: Clash Verge
+          - generic [ref=e182]:
+            - link " MacOS Intel Clash Verge" [ref=e184] [cursor=pointer]:
+              - /url: https://dl.cocoduck.cc/clash.verge_latest_mac_intel.dmg
+              - generic [ref=e186]: 
+              - generic [ref=e187]:
+                - generic [ref=e188]: MacOS Intel
+                - generic [ref=e189]: Clash Verge
+            - link " MacOS M系列 Clash Verge" [ref=e191] [cursor=pointer]:
+              - /url: https://dl.cocoduck.cc/clash.verge_latest_mac_m.dmg
+              - generic [ref=e193]: 
+              - generic [ref=e194]:
+                - generic [ref=e195]: MacOS M系列
+                - generic [ref=e196]: Clash Verge
+            - link " Android TV Clash Meta" [ref=e198] [cursor=pointer]:
+              - /url: https://dl.cocoduck.cc/cmfa_latest.apk
+              - generic [ref=e200]: 
+              - generic [ref=e201]:
+                - generic [ref=e202]: Android TV
+                - generic [ref=e203]: Clash Meta
+      - generic [ref=e206]:
+        - heading "使用教程" [level=3] [ref=e207]:
+          - generic [ref=e208]: 
+          - text: 使用教程
+        - paragraph [ref=e209]: 请根据您的设备选择对应的教程
+        - generic [ref=e210]:
+          - link " iOS教程 ShadowRocket(小火箭)使用教程 " [ref=e211] [cursor=pointer]:
+            - /url: https://cocoduck.cc/docs/shadowrocket/
+            - generic [ref=e212]:
+              - generic [ref=e215]: 
+              - generic [ref=e216]:
+                - generic [ref=e217]: iOS教程
+                - generic [ref=e218]: ShadowRocket(小火箭)使用教程
+              - generic [ref=e220]: 
+          - link " 安卓移动端教程 Clash For Android使用教程 " [ref=e221] [cursor=pointer]:
+            - /url: https://cocoduck.cc/docs/clash-for-android/
+            - generic [ref=e222]:
+              - generic [ref=e225]: 
+              - generic [ref=e226]:
+                - generic [ref=e227]: 安卓移动端教程
+                - generic [ref=e228]: Clash For Android使用教程
+              - generic [ref=e230]: 
+          - link " Windows使用教程 Clash Verge 配置指南 " [ref=e231] [cursor=pointer]:
+            - /url: https://cocoduck.cc/docs/clashverge/
+            - generic [ref=e232]:
+              - generic [ref=e235]: 
+              - generic [ref=e236]:
+                - generic [ref=e237]: Windows使用教程
+                - generic [ref=e238]: Clash Verge 配置指南
+              - generic [ref=e240]: 
+          - link " MacOS使用教程 Clash Verge For MacOS 配置指南 " [ref=e241] [cursor=pointer]:
+            - /url: https://cocoduck.cc/docs/clash-verge-for-macos/
+            - generic [ref=e242]:
+              - generic [ref=e245]: 
+              - generic [ref=e246]:
+                - generic [ref=e247]: MacOS使用教程
+                - generic [ref=e248]: Clash Verge For MacOS 配置指南
+              - generic [ref=e250]: 
+          - link " 安卓电视端教程 Android TV 安装使用 " [ref=e251] [cursor=pointer]:
+            - /url: https://cocoduck.cc/docs/androidtv/
+            - generic [ref=e252]:
+              - generic [ref=e255]: 
+              - generic [ref=e256]:
+                - generic [ref=e257]: 安卓电视端教程
+                - generic [ref=e258]: Android TV 安装使用
+              - generic [ref=e260]: 
+      - generic [ref=e262]:
+        - generic [ref=e265]:
+          - heading "Apple ID" [level=3] [ref=e266]:
+            - generic [ref=e267]: 
+            - text: Apple ID
+          - paragraph [ref=e268]:
+            - text: 我们为付费会员提供的共享账号, 会员福利不做售后, 请自行阅读教程。
+            - link "独享账号购买(合作商)" [ref=e269] [cursor=pointer]:
+              - /url: https://idgg.cc/
+              - generic [ref=e270]: 
+              - text: 独享账号购买(合作商)
+          - generic [ref=e271]:
+            - heading "暂无可用的Apple ID" [level=4] [ref=e272]
+            - paragraph [ref=e273]: 请先购买套餐以查看共享账号
+            - link " 前往购买套餐" [ref=e274] [cursor=pointer]:
+              - /url: /user/product
+              - generic [ref=e275]: 
+              - text: 前往购买套餐
+        - generic [ref=e278]:
+          - heading "友情推荐" [level=3] [ref=e279]:
+            - generic [ref=e280]: 
+            - text: 友情推荐
+          - paragraph [ref=e281]: 由靠谱友商提供的优质账号服务
+          - generic [ref=e282]:
+            - link " 网飞拼车" [ref=e283] [cursor=pointer]:
+              - /url: https://hezu.pro/?rid=358p2
+              - generic [ref=e284]: 
+              - text: 网飞拼车
+            - link " Disney+" [ref=e285] [cursor=pointer]:
+              - /url: https://hezu.pro/?rid=358p2
+              - generic [ref=e286]: 
+              - text: Disney+
+            - link " 油管会员" [ref=e287] [cursor=pointer]:
+              - /url: https://hezu.pro/?rid=358p2
+              - generic [ref=e288]: 
+              - text: 油管会员
+            - link " ChatGPT" [ref=e289] [cursor=pointer]:
+              - /url: https://hezu.pro/?rid=358p2
+              - generic [ref=e290]: 
+              - text: ChatGPT
+            - link " HBO GO" [ref=e291] [cursor=pointer]:
+              - /url: https://hezu.pro/?rid=358p2
+              - generic [ref=e292]: 
+              - text: HBO GO
+            - link " 独享苹果账号" [ref=e293] [cursor=pointer]:
+              - /url: https://idgg.cc/
+              - generic [ref=e294]: 
+              - text: 独享苹果账号
+    - dialog [ref=e295]:
+      - document:
+        - generic [ref=e296]:
+          - generic [ref=e297]:
+            - heading "最新公告" [level=5] [ref=e298]:
+              - generic [ref=e299]: 
+              - text: 最新公告
+            - button "Close" [ref=e300] [cursor=pointer]
+          - generic [ref=e305]:
+            - generic [ref=e307]: 
+            - generic [ref=e308]:
+              - generic [ref=e309]:
+                - generic [ref=e310]: 
+                - text: 发布时间：2026-05-15 17:07:26
+              - generic [ref=e311]:
+                - 'heading "2026.4.15: # 套餐价格调整通知" [level=2] [ref=e312]':
+                  - text: "2026.4.15:"
+                  - text: "# 套餐价格调整通知"
+                - paragraph [ref=e313]: 迫于政策影响和运营环境恶劣，为了保证持续提供优质的服务和品牌良性运营，自2026年5月15日起 所有套餐价格普涨10%-30%，已购套餐不受影响。
+                - paragraph [ref=e314]: 价格调整后请不要尝试同客服索要优惠码，值此特殊时期我们已经做到业内top级别的稳定，稳定的承诺背后是数倍于大部分友商的成本，还望理解，谢谢。
+                - paragraph [ref=e315]: 2026.5.15 UPDATE：价格调整已完成，感谢诸君信任，我们将持续保持稳定和高速的服务，不负厚望🍻。
+                - heading "2026.2.9:" [level=2] [ref=e316]
+                - heading "1. 节点如果不可用，请重新复制并导入订阅；" [level=4] [ref=e317]:
+                  - strong [ref=e318]: 1. 节点如果不可用，请重新复制并导入订阅；
+                - heading "2. 重新导入失败，请确保系统代理已经关闭；" [level=4] [ref=e319]:
+                  - strong [ref=e320]: 2. 重新导入失败，请确保系统代理已经关闭；
+                - heading "3. 重新导入仍然全红：" [level=4] [ref=e321]:
+                  - strong [ref=e322]: "3."
+                  - strong [ref=e323]: 重新导入仍然全红：
+                - heading "3.1. PC端：如果是Clash for Windows请下载面板上的Clash Verge再重新导入；" [level=4] [ref=e324]:
+                  - strong [ref=e325]: 3.1. PC端：如果是Clash for Windows请下载面板上的Clash Verge再重新导入；
+                - heading "3.2. Mac端：如果是Clash X (Pro) 请下载面板上的Clash Verge再重新导入；" [level=4] [ref=e326]:
+                  - strong [ref=e327]: 3.2. Mac端：
+                  - strong [ref=e328]: 如果是Clash X (Pro) 请下载面板上的Clash Verge再重新导入；
+                - heading "3.3. 安卓移动端：如果是Clash for Android 请下载面板上的Clash Meta再重新导入；" [level=4] [ref=e329]:
+                  - strong [ref=e330]: 3.3. 安卓移动端：
+                  - strong [ref=e331]: 如果是Clash for Android 请下载面板上的Clash Meta再重新导入；
+                - heading "3.4. iOS端：如果节点下方显示是“Vless/None”或者提示⚠️ ，请更新小火箭或者重新下载并导入；" [level=4] [ref=e332]:
+                  - strong [ref=e333]: 3.4. iOS端：
+                  - strong [ref=e334]: 如果节点下方显示是“Vless/None”或者提示⚠️ ，请更新小火箭或者重新下载并导入；
+                - heading "---" [level=2] [ref=e335]
+                - heading "2026.2.10:" [level=2] [ref=e336]
+                - heading "#道歉声明与补偿措施" [level=2] [ref=e337]
+                - paragraph [ref=e338]: 北京时间 2 月 8 日上午 9:00 起，我们的服务遭遇攻击，直至当日下午 3:30 逐步恢复，在此期间服务处于间断不可用状态。
+                - paragraph [ref=e339]: 在 2 月 8 日当天，我们仓促地对节点协议进行了更新。由于准备不足、评估不充分，该次更新未能提前适配主流客户端，也没有准备可立即切换的备用方案，导致包括 Clash for Windows、Clash X Pro、V2RayN、V2RayNG、Surge、Quantumult-X在内的客户端出现所有节点均不可用的情况。
+                - paragraph [ref=e340]:
+                  - text: 此外，我们最早使用的订阅链接域名因不可抗因素受到限制，导致部分用户无法直接刷新订阅内容。
+                  - text: 这进一步放大了本次事故的影响范围，使部分用户即使在节点逐步恢复后，仍然无法第一时间完成配置更新。
+                - paragraph [ref=e341]: 以上问题叠加，最终造成大部分用户端实际不可用时间长达约 1 天，并且不排除仍存在尚未得到我们帮助而无法使用的用户。
+                - paragraph [ref=e342]: 这是我们自服务上线以来最严重的一次事故。
+                - paragraph [ref=e343]:
+                  - text: 目前攻击已经缓解。对于内核支持的客户端我们已经做了适配，内核不支持的客户端包括
+                  - strong [ref=e344]: Clash for Windows、Clash X Pro、V2RayN(6.17以下版本)、Surge等，需要您更新客户端版本或者更换客户端使用。
+                - paragraph [ref=e345]: 给大家带来的困扰与不便，我们深感愧疚，也真诚地向每一位受影响的用户致歉, 并向受影响用户提供补偿七折优惠码：
+                - heading "DUCKDONTLIE" [level=2] [ref=e346]
+                - paragraph [ref=e347]:
+                  - text: 优惠码使用说明
+                  - text: 1. 该优惠码仅对
+                  - strong [ref=e348]: 2026 年 2 月 10 日
+                  - text: 之前注册的用户有效
+                  - text: 2. 每位符合条件的用户仅可使用一次
+                  - text: 3. 优惠码永久有效，无论何时使用都可以，不设使用截止时间
+                  - text: 4. 优惠码适用于商店内所有商品，包括：月付套餐/半年付套餐/年付套餐/流量加油包
+                - paragraph [ref=e349]:
+                  - text: 这次事故暴露了我们在应急预案、变更流程以及客户端兼容性评估上的严重不足。
+                  - text: 我们已经开始对相关流程进行全面复盘和整改，以避免类似问题再次发生。
+                  - text: 再一次，抱歉，也感谢诸位的理解、包容与继续信任。
+                - heading "---" [level=2] [ref=e350]:
+                  - strong [ref=e351]: "---"
+                - heading "Welcome" [level=2] [ref=e352]:
+                  - strong [ref=e353]: Welcome
+                - paragraph [ref=e354]:
+                  - text: 亲爱的朋友您好，欢迎来到COCODUCK
+                  - text: 1. 北美技术团队倾情奉献，高可用/高可靠/低延迟，欢迎免费体验
+                - paragraph [ref=e355]: 2. 新用户可以免费使用1天内2GB流量，体验用户没有人工支持，请查阅站内文档
+                - paragraph [ref=e356]:
+                  - text: 3. 加入 TG 频道并打开消息通知避免错过重要公告：
+                  - link "@COCODUCK_PUB" [ref=e357] [cursor=pointer]:
+                    - /url: https://t.me/cocoduck_pub
+                - paragraph [ref=e358]:
+                  - text: 4. 文档站地址：
+                  - link "COCODUCK.CC/DOCS/" [ref=e359] [cursor=pointer]:
+                    - /url: https://cocoduck.cc/docs/
+                - paragraph [ref=e360]:
+                  - text: "5."
+                  - strong [ref=e361]: 任何问题
+                  - text: ！请立即联系
+                  - strong [ref=e362]: 右下角在线客服！
+                - paragraph [ref=e363]: 6. 北京时间 2:00AM-8:00AM 是修BUG时间，如果在页面上看到一些奇怪的东西请忽略
+                - paragraph [ref=e364]:
+                  - text: 7. 请不吝将cocoduck推荐给您身边的亲友，点击“
+                  - strong [ref=e365]: 加入我们
+                  - text: ”开启您的躺赚人生
+          - button " 我知道了" [ref=e367] [cursor=pointer]:
+            - generic [ref=e368]: 
+            - text: 我知道了
+    - text:   
+    - contentinfo [ref=e369]:
+      - generic [ref=e371]:
+        - generic [ref=e372]:
+          - list:
+            - listitem
+        - generic [ref=e373]:
+          - list:
+            - listitem

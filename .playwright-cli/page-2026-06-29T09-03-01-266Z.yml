@@ -1,0 +1,38 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - link "SSPanel-UIM Logo" [ref=e5] [cursor=pointer]:
+      - /url: "#"
+      - img "SSPanel-UIM Logo" [ref=e6]
+    - generic [ref=e8]:
+      - heading "登录到用户中心" [level=2] [ref=e9]
+      - generic [ref=e10]:
+        - generic [ref=e11]: 注册邮箱
+        - textbox [ref=e12]: mx738945e98b@outlook.com
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - text: 登录密码
+          - link "忘记密码" [ref=e16] [cursor=pointer]:
+            - /url: /password/reset
+        - textbox [ref=e18]: VpnTest2026!
+      - generic [ref=e19]:
+        - generic [ref=e20]: 两步认证
+        - textbox "如果没有设置两步认证可留空" [ref=e21]
+      - generic [ref=e23]:
+        - checkbox "记住此设备" [ref=e24]
+        - generic [ref=e25]: 记住此设备
+      - button "登录" [ref=e27] [cursor=pointer]
+      - paragraph [ref=e28]: 如果登录不了请使用Chrome浏览器
+    - generic [ref=e29]:
+      - text: 还没有账户？
+      - link "点击注册" [ref=e30] [cursor=pointer]:
+        - /url: /auth/register
+  - text: 
+  - dialog [active] [ref=e31]:
+    - document:
+      - generic [ref=e32]:
+        - button "Close" [ref=e33] [cursor=pointer]
+        - generic [ref=e35]:
+          - generic [ref=e36]: 
+          - paragraph [ref=e37]: 邮箱或者密码错误
+        - link "确认" [ref=e42] [cursor=pointer]:
+          - /url: ""

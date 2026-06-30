@@ -1,0 +1,36 @@
+- main [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - generic [ref=e13]:
+        - link "cd1314.xyz" [ref=e14] [cursor=pointer]:
+          - /url: javascript:void(0);
+        - paragraph [ref=e15]: 官方tg群https://t.me/nivpn，最新地址 help.cd520.xyz
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - textbox "邮箱" [ref=e18]
+          - combobox [ref=e19]:
+            - option "@qq.com" [selected]
+            - option "@163.com"
+            - option "@gmail.com"
+            - option "@yahoo.com"
+            - option "@sina.com"
+            - option "@126.com"
+            - option "@outlook.com"
+            - option "@yeah.net"
+            - option "@foxmail.com"
+        - generic [ref=e20]:
+          - textbox "邮箱验证码" [ref=e22]
+          - button "发送" [ref=e24] [cursor=pointer]
+        - textbox "密码" [ref=e26]
+        - textbox "密码" [ref=e28]
+        - textbox "邀请码(选填)" [ref=e30]
+        - button "注册" [ref=e32] [cursor=pointer]:
+          - generic [ref=e33]:
+            - generic [ref=e34]: 
+            - text: 注册
+    - generic [ref=e35]:
+      - link "返回登入" [ref=e36] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - generic [ref=e37] [cursor=pointer]:
+        - generic [ref=e38]: 
+        - text: 简体中文

@@ -1,0 +1,54 @@
+{
+  "canvasCount": 3,
+  "canvases": [
+    {
+      "w": 260,
+      "h": 160,
+      "cls": "geetest_canvas_bg geetest_absolute"
+    },
+    {
+      "w": 260,
+      "h": 160,
+      "cls": "geetest_canvas_slice geetest_absolute"
+    },
+    {
+      "w": 260,
+      "h": 160,
+      "cls": "geetest_canvas_fullbg geetest_fade geetest_absolute"
+    }
+  ],
+  "classes": [
+    "geetest_holder geetest_wind geetest_radar_click_ready",
+    "geetest_form",
+    "geetest_btn",
+    "geetest_radar_btn",
+    "geetest_radar",
+    "geetest_ring",
+    "geetest_small",
+    "geetest_sector",
+    "geetest_cross",
+    "geetest_h",
+    "geetest_v",
+    "geetest_dot",
+    "geetest_scan",
+    "geetest_status",
+    "geetest_bg",
+    "geetest_hook",
+    "geetest_ie_radar",
+    "geetest_radar_tip",
+    "geetest_radar_tip_content",
+    "geetest_reset_tip_content",
+    "geetest_radar_error_code",
+    "geetest_logo",
+    "geetest_other_offline geetest_offline",
+    "geetest_ghost_success",
+    "geetest_success_btn",
+    "geetest_success_box",
+    "geetest_success_show",
+    "geetest_success_pie",
+    "geetest_success_filter",
+    "geetest_success_mask"
+  ],
+  "imgCount": 1,
+  "bodyText": "注册\n昵称\n邮箱\n@qq.com\n@outlook.com\n@hotmail.com\n@gmail.com\n@163.com\n@126.com\n@yahoo.com\n@yeah.net\n@foxmail.com\n@sina.com\n@live.com\n密码\n确认密码\n请完成验证\n注册即代表同意 服务条款\n注册\n已经有账号了[?]马上登录 [?][?]\n版权所有 [?] 2019-2024 飞毯加速 保留所有权利\n拖动滑块完成拼图\n关闭验证\n刷新验证\n帮助反馈\n极验"
+}

@@ -1,0 +1,23 @@
+[1] 登录...
+Traceback (most recent call last):
+  File "E:\API��ȡ����\�Զ�������Ѵ�������\01-����VPNע���\test\dgy_login_extract.py", line 16, in <module>
+    page.goto("https://a03.dgy02.com/#/login", wait_until="networkidle", timeout=20000)
+  File "G:\Anaconda3\Lib\site-packages\playwright\sync_api\_generated.py", line 9024, in goto
+    self._sync(
+  File "G:\Anaconda3\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "G:\Anaconda3\Lib\site-packages\playwright\_impl\_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\Anaconda3\Lib\site-packages\playwright\_impl\_frame.py", line 145, in goto
+    await self._channel.send("goto", locals_to_params(locals()))
+  File "G:\Anaconda3\Lib\site-packages\playwright\_impl\_connection.py", line 61, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\Anaconda3\Lib\site-packages\playwright\_impl\_connection.py", line 528, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 20000ms exceeded.
+Call log:
+  - navigating to "https://a03.dgy02.com/#/login", waiting until "networkidle"
+

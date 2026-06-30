@@ -1,0 +1,87 @@
+- generic [ref=e53]:
+  - navigation [ref=e54]:
+    - generic [ref=e56]:
+      - link "大哥云" [ref=e57] [cursor=pointer]:
+        - /url: /
+      - text: 
+    - list [ref=e59]:
+      - listitem [ref=e60]:
+        - generic [ref=e61] [cursor=pointer]:
+          - generic [ref=e62]: 
+          - generic [ref=e63]: 仪表盘
+      - listitem [ref=e64]:
+        - generic [ref=e65] [cursor=pointer]:
+          - generic [ref=e66]: 
+          - generic [ref=e67]: 使用文档
+      - listitem [ref=e68]: 订阅
+      - listitem [ref=e69]:
+        - generic [ref=e70] [cursor=pointer]:
+          - generic [ref=e71]: 
+          - generic [ref=e72]: 购买订阅
+      - listitem [ref=e73]:
+        - generic [ref=e74] [cursor=pointer]:
+          - generic [ref=e75]: 
+          - generic [ref=e76]: 节点状态
+      - listitem [ref=e77]: 财务
+      - listitem [ref=e78]:
+        - generic [ref=e79] [cursor=pointer]:
+          - generic [ref=e80]: 
+          - generic [ref=e81]: 我的订单
+      - listitem [ref=e82]:
+        - generic [ref=e83] [cursor=pointer]:
+          - generic [ref=e84]: 
+          - generic [ref=e85]: 我的邀请
+      - listitem [ref=e86]: 用户
+      - listitem [ref=e87]:
+        - generic [ref=e88] [cursor=pointer]:
+          - generic [ref=e89]: 
+          - generic [ref=e90]: 个人中心
+      - listitem [ref=e91]:
+        - generic [ref=e92] [cursor=pointer]:
+          - generic [ref=e93]: 
+          - generic [ref=e94]: 我的工单
+      - listitem [ref=e95]:
+        - generic [ref=e96] [cursor=pointer]:
+          - generic [ref=e97]: 
+          - generic [ref=e98]: 流量明细
+    - generic [ref=e99]: 大哥云 v1.7.4
+  - banner [ref=e100]:
+    - generic [ref=e101]:
+      - text: 
+      - generic [ref=e102]: 仪表盘
+      - generic [ref=e103]:
+        - button "" [ref=e105] [cursor=pointer]:
+          - generic [ref=e106]: 
+        - button "" [ref=e108] [cursor=pointer]:
+          - generic [ref=e109]: 
+        - generic [ref=e110]:
+          - button " Loading... " [ref=e111] [cursor=pointer]:
+            - generic [ref=e112]: 
+            - text: Loading...
+            - generic [ref=e113]: 
+          - text:  
+  - main [ref=e114]:
+    - generic [ref=e115]:
+      - generic [ref=e118]:
+        - heading "我的订阅" [level=3] [ref=e120]
+        - 'generic "图标: loading" [ref=e123]':
+          - img [ref=e124]
+      - generic [ref=e128]:
+        - heading "捷径" [level=3] [ref=e130]
+        - generic [ref=e133]:
+          - generic [ref=e134] [cursor=pointer]:
+            - generic [ref=e135]: 查看教程
+            - generic [ref=e136]: 学习如何使用 大哥云
+            - generic [ref=e137]: 
+          - generic [ref=e138] [cursor=pointer]:
+            - generic [ref=e139]: 一键订阅
+            - generic [ref=e140]: 快速将节点导入对应客户端进行使用
+            - generic [ref=e141]: 
+          - generic [ref=e142] [cursor=pointer]:
+            - generic [ref=e143]: 购买订阅
+            - generic [ref=e144]: 对您当前的订阅进行购买
+            - generic [ref=e145]: 
+          - generic [ref=e146] [cursor=pointer]:
+            - generic [ref=e147]: 遇到问题
+            - generic [ref=e148]: 遇到问题可以通过工单与我们沟通
+            - generic [ref=e149]: 

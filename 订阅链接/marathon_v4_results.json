@@ -1,0 +1,30 @@
+[
+  {
+    "name": "v2free",
+    "email": "landsanchehrqvrw49590ycpji@outlook.com",
+    "status": "ERROR",
+    "subscription": null,
+    "detail": "Page.goto: net::ERR_CONNECTION_CLOSED at https://w1.v2free.cyou/auth/register?code=UsUP\nCall log:\n  - navigating to \"https://w1.v2free.cyou/auth/register?code=UsUP\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "fnf",
+    "email": "mallenbb9qdjidg9y5tw1yqd@outlook.com",
+    "status": "ERROR",
+    "subscription": null,
+    "detail": "Page.goto: net::ERR_CONNECTION_CLOSED at https://fnf.one/user\nCall log:\n  - navigating to \"https://fnf.one/user\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "WeiNiYun",
+    "email": "fishehen5k5rv2xvyirw@outlook.com",
+    "status": "ERROR",
+    "subscription": null,
+    "detail": "Page.goto: net::ERR_CONNECTION_CLOSED at https://dlj.tf/bHDAXBj\nCall log:\n  - navigating to \"https://dlj.tf/bHDAXBj\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "name": "69yun",
+    "email": "reedemma531lj7zord2i0uok@outlook.com",
+    "status": "ERROR",
+    "subscription": null,
+    "detail": "Page.goto: net::ERR_CONNECTION_CLOSED at https://69yun69.com/auth/register\nCall log:\n  - navigating to \"https://69yun69.com/auth/register\", waiting until \"domcontentloaded\"\n"
+  }
+]

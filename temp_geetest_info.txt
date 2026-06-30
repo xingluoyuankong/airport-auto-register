@@ -1,0 +1,4 @@
+  File "E:\API��ȡ����\�Զ�������Ѵ�������\01-����VPNע���\test\inspect_geetest.py", line 30
+    info = page.evaluate("""() => {
+                         ^^^^^^^^^^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 982-983: truncated \uXXXX escape

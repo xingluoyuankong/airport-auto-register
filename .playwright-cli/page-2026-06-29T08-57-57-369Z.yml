@@ -1,0 +1,105 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e79]:
+    - generic:
+      - generic [ref=e80]:
+        - img "Logo" [ref=e81]
+        - text: sslar
+      - generic [ref=e84]:
+        - link "仪表盘" [ref=e85] [cursor=pointer]:
+          - /url: "#/dashboard"
+          - img [ref=e87]
+          - generic [ref=e89]: 仪表盘
+        - link "商店 热销" [ref=e90] [cursor=pointer]:
+          - /url: "#/shop"
+          - img [ref=e92]
+          - generic [ref=e97]: 商店
+          - generic [ref=e98]: 热销
+        - link "邀请 返利" [ref=e99] [cursor=pointer]:
+          - /url: "#/invite"
+          - img [ref=e101]
+          - generic [ref=e104]: 邀请
+          - generic [ref=e105]: 返利
+        - link "更多" [ref=e106] [cursor=pointer]:
+          - /url: "#/more"
+          - img [ref=e108]
+          - generic [ref=e109]: 更多
+      - generic [ref=e110]:
+        - button "切换主题" [ref=e111] [cursor=pointer]:
+          - img [ref=e113]
+        - generic [ref=e119]:
+          - generic:
+            - img "中文"
+            - img "English"
+            - img "繁體中文"
+            - img "日本語"
+            - img "한국어"
+            - img "Русский"
+            - img "فارسی"
+          - button "简体中文" [ref=e120] [cursor=pointer]:
+            - img "简体中文" [ref=e123]
+        - button [ref=e124] [cursor=pointer]:
+          - img [ref=e125]
+        - img [ref=e132] [cursor=pointer]
+    - generic [ref=e504]:
+      - generic [ref=e505]:
+        - heading "确认订单" [level=2] [ref=e507]
+        - paragraph [ref=e509]: 请确认您的订单信息并完成支付
+      - generic [ref=e510]:
+        - generic [ref=e511]:
+          - generic [ref=e512]:
+            - generic [ref=e513]:
+              - heading "Basic" [level=3] [ref=e514]
+              - generic [ref=e515]:
+                - img [ref=e516]
+                - generic [ref=e520]: 库存充足
+            - list [ref=e524]:
+              - listitem [ref=e525]: 100 GB 流量/月，每月购买日重置流量
+              - listitem [ref=e526]: 支持ChatGPT/Tiktok
+              - listitem [ref=e527]: Netfilx/Hulu/Hbo/Disney+/Dazn等流媒体支持
+              - listitem [ref=e528]: 带宽冗余10Gbps，无设备数限制
+              - listitem [ref=e529]: 独有加密隧道传输
+          - generic [ref=e530]:
+            - generic [ref=e531]: 选择计费周期
+            - generic [ref=e533]:
+              - generic [ref=e535] [cursor=pointer]:
+                - generic [ref=e536]: 月付
+                - generic [ref=e537]: ¥17.00
+              - generic [ref=e539] [cursor=pointer]:
+                - generic [ref=e540]: 季度
+                - generic [ref=e541]: ¥46.00
+              - generic [ref=e543] [cursor=pointer]:
+                - generic [ref=e544]: 半年
+                - generic [ref=e545]: ¥87.00
+              - generic [ref=e547] [cursor=pointer]:
+                - generic [ref=e548]: 一年
+                - generic [ref=e549]: ¥163.00
+        - generic [ref=e550]:
+          - generic [ref=e551]:
+            - generic [ref=e552]: 优惠码
+            - generic [ref=e553]:
+              - textbox "输入优惠码（如有）" [ref=e554]: iZcnBXiM
+              - button "验证" [ref=e555] [cursor=pointer]:
+                - img [ref=e586]
+                - generic [ref=e561]: 验证
+          - generic [ref=e562]:
+            - generic [ref=e563]: 订单摘要
+            - generic [ref=e565]:
+              - generic [ref=e566]:
+                - generic [ref=e567]: 小计
+                - generic [ref=e568]: ¥17.00
+              - generic [ref=e570]:
+                - generic [ref=e571]: 总计
+                - generic [ref=e572]: ¥17.00
+          - generic [ref=e573]:
+            - button "返回商店" [ref=e574] [cursor=pointer]:
+              - img [ref=e575]
+              - generic [ref=e578]: 返回商店
+            - button "提交订单" [ref=e579] [cursor=pointer]:
+              - img [ref=e580]
+              - generic [ref=e585]: 提交订单
+    - generic [ref=e591] [cursor=pointer]:
+      - img [ref=e593]
+      - generic [ref=e595]: 优惠券无效
+      - button "×" [ref=e597]
+    - img
+  - generic: v0.3.8

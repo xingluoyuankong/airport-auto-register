@@ -1,0 +1,100 @@
+[
+  {
+    "name": "j20cloud",
+    "status": "GOTO_FAILED",
+    "reason": "page.goto: net::ERR_CONNECTION_CLOSED at https://j20cloud.xyz/auth/register?code"
+  },
+  {
+    "name": "FRANXX",
+    "status": "GOTO_FAILED",
+    "reason": "page.goto: net::ERR_CONNECTION_CLOSED at https://www.franxx.cloud/auth/register?"
+  },
+  {
+    "name": "虚坤粉V2",
+    "status": "GOTO_FAILED",
+    "reason": "page.goto: net::ERR_CONNECTION_CLOSED at https://www.cxkv2.xyz/auth/register?cod"
+  },
+  {
+    "name": "douluos",
+    "status": "GOTO_FAILED",
+    "reason": "page.goto: Navigation to \"https://www.douluos.xyz/auth/register?code=BHmw\" is in"
+  },
+  {
+    "name": "维尼云",
+    "status": "NO_FORM"
+  },
+  {
+    "name": "mxyssr",
+    "status": "NO_FORM"
+  },
+  {
+    "name": "freedog",
+    "status": "GOTO_FAILED",
+    "reason": "page.goto: net::ERR_CONNECTION_CLOSED at https://www.freedog.pw/auth/register?co"
+  },
+  {
+    "name": "v4speed",
+    "status": "GOTO_FAILED",
+    "reason": "page.goto: Navigation to \"https://v4speed.com/#/register?code=ew6t6ilb\" is inter"
+  },
+  {
+    "name": "逸云",
+    "status": "GOTO_FAILED",
+    "reason": "page.goto: Navigation to \"https://yiyun.cyou/#/register?code=EQrig469\" is interr"
+  },
+  {
+    "name": "00xyz",
+    "status": "GOTO_FAILED",
+    "reason": "page.goto: net::ERR_CONNECTION_CLOSED at https://00xyz.xyz/#/register?code=THCRg"
+  },
+  {
+    "name": "月抛云",
+    "status": "GOTO_FAILED",
+    "reason": "page.goto: net::ERR_CONNECTION_CLOSED at https://yuepaoyun.xyz/#/register?code=O"
+  },
+  {
+    "name": "快乐星球",
+    "status": "GOTO_FAILED",
+    "reason": "page.goto: Navigation to \"https://zy.klxqiu.co/#/register?code=ORFpEx8Z\" is inte"
+  },
+  {
+    "name": "小花",
+    "status": "GOTO_FAILED",
+    "reason": "page.goto: net::ERR_CONNECTION_CLOSED at https://m.xhhv2.com/auth/register?code="
+  },
+  {
+    "name": "跨越长城",
+    "status": "GOTO_FAILED",
+    "reason": "page.goto: net::ERR_SSL_UNRECOGNIZED_NAME_ALERT at https://direct.gfwservice.xyz"
+  },
+  {
+    "name": "桔子云",
+    "status": "GOTO_FAILED",
+    "reason": "page.goto: Navigation to \"https://juzicloud.net/auth/register?code=4ct1\" is inte"
+  },
+  {
+    "name": "NOVACLOUD",
+    "status": "GOTO_FAILED",
+    "reason": "page.goto: Navigation to \"https://www.q88q.cyou/\" is interrupted by another navi"
+  },
+  {
+    "name": "艾可云",
+    "status": "GOTO_FAILED",
+    "reason": "page.goto: Navigation to \"https://www.v2aky.com/#/register?code=NfDNuHQK\" is int"
+  },
+  {
+    "name": "云翼星辰",
+    "status": "GOTO_FAILED",
+    "reason": "page.goto: net::ERR_CONNECTION_CLOSED at https://v2.yyxc.cc/#/register?code=gNzd"
+  },
+  {
+    "name": "晓云",
+    "status": "GOTO_FAILED",
+    "reason": "page.goto: Timeout 15000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://ww"
+  },
+  {
+    "name": "TANZCLOUD",
+    "status": "REDIRECTED_TO_LOGIN",
+    "note": "3天8G"
+  }
+]

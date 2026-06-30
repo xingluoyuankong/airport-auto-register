@@ -1,0 +1,351 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - list:
+      - listitem
+      - listitem
+    - list [ref=e3]:
+      - listitem [ref=e4]:
+        - list [ref=e6]:
+          - listitem [ref=e7]: Follow Us
+          - listitem [ref=e8]: —
+          - listitem [ref=e9]:
+            - link "" [ref=e10] [cursor=pointer]:
+              - /url: https://t.me/cocoduck_pub
+              - generic [ref=e11]: 
+    - generic:
+      - img
+    - link "Skip to content" [ref=e12] [cursor=pointer]:
+      - /url: "#main"
+    - banner [ref=e13]:
+      - generic [ref=e15]:
+        - link "COCODUCK VPN" [ref=e18] [cursor=pointer]:
+          - /url: https://cocoduck.cc/
+          - generic [ref=e19]: COCODUCK VPN
+        - generic [ref=e20]:
+          - navigation [ref=e21]:
+            - generic [ref=e22]:
+              - list [ref=e25]:
+                - listitem [ref=e26]:
+                  - link "首页" [ref=e27] [cursor=pointer]:
+                    - /url: https://cocoduck.cc
+                    - generic [ref=e28]: 首页
+                - listitem [ref=e29]:
+                  - link "文档" [ref=e30] [cursor=pointer]:
+                    - /url: https://cocoduck.cc/docs/
+                    - generic [ref=e31]: 文档
+              - text: 
+          - list [ref=e32]:
+            - listitem [ref=e33]:
+              - link "登录" [ref=e34] [cursor=pointer]:
+                - /url: https://www.cocoduck.live/auth/login
+          - button [ref=e36] [cursor=pointer]
+    - main [ref=e42]:
+      - article [ref=e43]:
+        - generic [ref=e45]:
+          - generic [ref=e50]:
+            - generic [ref=e53]:
+              - generic [ref=e57]:
+                - generic [ref=e58]: 可能是最稳定快速好用的VPN
+                - heading "你值得 更快的自由" [level=2] [ref=e59]:
+                  - text: 你值得
+                  - text: 更快的自由
+              - generic:
+                - paragraph:
+                  - text: 套餐计划低至6.41元/月起
+                  - text: 您可以随时根据自身需求升级计划
+              - generic [ref=e62]:
+                - link "免费体验 ":
+                  - /url: https://www.cocoduck.live/auth/register?code=8c1073605d
+                  - text: 免费体验
+                  - generic: 
+              - generic:
+                - paragraph:
+                  - text: 已经在使用我们的服务?
+                  - link "立即登录":
+                    - /url: https://dash.cocoduck.co/auth/register?code=8c1073605d
+                    - strong: 立即登录
+            - figure [ref=e68]:
+              - img [ref=e70]
+          - generic [ref=e71]:
+            - generic [ref=e75]:
+              - img "稳定得难以置信" [ref=e77]
+              - heading "稳定得难以置信" [level=4] [ref=e79]
+              - list [ref=e81]:
+                - listitem [ref=e82]:
+                  - img [ref=e84]
+                  - text: 无论开什么大会，我们总在线
+                - listitem [ref=e86]:
+                  - img [ref=e88]
+                  - text: 我们总有备用方案
+                - listitem [ref=e90]:
+                  - img [ref=e92]
+                  - text: 7/24的SRE保证
+            - generic [ref=e98]:
+              - img "速度超乎你的想象" [ref=e100]
+              - heading "速度超乎你的想象" [level=4] [ref=e102]
+              - list [ref=e104]:
+                - listitem [ref=e105]:
+                  - img [ref=e107]
+                  - text: 沪日/广港IEPL高速中转线路
+                - listitem [ref=e109]:
+                  - img [ref=e111]
+                  - text: BGP专线打通
+                - listitem [ref=e113]:
+                  - img [ref=e115]
+                  - text: 多地区高速机房
+            - generic [ref=e121]:
+              - img "坚如磐石的安全性" [ref=e123]
+              - heading "坚如磐石的安全性" [level=4] [ref=e125]
+              - list [ref=e127]:
+                - listitem [ref=e128]:
+                  - img [ref=e130]
+                  - text: 多层中转拒绝跟踪
+                - listitem [ref=e132]:
+                  - img [ref=e134]
+                  - text: 完全隐身的上网体验
+                - listitem [ref=e136]:
+                  - img [ref=e138]
+                  - text: 端到端加密防止中间人攻击
+          - generic [ref=e149]:
+            - generic [ref=e152]:
+              - generic [ref=e157]:
+                - generic [ref=e158]: 超高稳定性
+                - heading "性能稳定 经由百千用户检验" [level=3] [ref=e159]:
+                  - text: 性能稳定
+                  - text: 经由百千用户检验
+              - generic [ref=e160]:
+                - generic [ref=e161]:
+                  - generic [ref=e162] [cursor=pointer]:
+                    - heading "中转服务器增强稳定性" [level=6] [ref=e163]
+                    - button [ref=e164]
+                  - paragraph [ref=e167]: 经由我们的中转服务器，你可以获得更高的稳定性，同时也将更好地获得隐私保护。
+                - generic [ref=e168]:
+                  - generic [ref=e169] [cursor=pointer]:
+                    - heading "稳定性极为重要" [level=6] [ref=e170]
+                    - button [ref=e171]
+                  - paragraph [ref=e174]: 我们深知稳定性对于我们的客户极为重要。无论发生什么大事、开什么大会，我们都为你提供自由获取信息的渠道。
+              - link "免费体验" [ref=e178] [cursor=pointer]:
+                - /url: https://www.cocoduck.live/auth/register?code=8c1073605d
+                - text: 免费体验
+                - img [ref=e180]
+            - figure [ref=e191]
+          - generic [ref=e201]:
+            - figure [ref=e208]
+            - generic [ref=e214]:
+              - generic [ref=e219]:
+                - generic [ref=e220]: 超快访问速度
+                - heading "速度超群 我们助你逆风飞翔" [level=3] [ref=e221]:
+                  - text: 速度超群
+                  - text: 我们助你逆风飞翔
+              - paragraph [ref=e223]:
+                - text: 我们在离你最近的区域建立服务器，比如
+                - strong [ref=e224]: 日本、韩国、新加坡,
+                - text: 以及
+                - strong [ref=e225]: 香港
+                - text: 。经由我们的高速服务器，你甚至感知不到我们的存在。
+              - generic [ref=e227]:
+                - heading "预计访问速度提升" [level=6] [ref=e229]
+                - generic [ref=e230]:
+                  - progressbar:
+                    - generic [ref=e231]: 0%
+              - paragraph [ref=e233]: "*基于市场同类VPN速度数据"
+          - generic [ref=e244]:
+            - generic [ref=e247]:
+              - generic [ref=e250]:
+                - generic [ref=e251]: 我们的
+                - heading "核心 竞争力" [level=3] [ref=e252]:
+                  - text: 核心
+                  - text: 竞争力
+              - paragraph [ref=e254]: 我们的产品拥有一系列独特功能，助你更稳定、更快、更便捷地自由访问互联网，不受拘束。
+              - generic [ref=e257]:
+                - generic [ref=e261]:
+                  - generic [ref=e263]:
+                    - generic [ref=e264]: "0"
+                    - text: +
+                  - paragraph [ref=e265]: 高速节点
+                - generic [ref=e269]:
+                  - generic [ref=e271]:
+                    - generic [ref=e272]: "0"
+                    - text: +
+                  - paragraph [ref=e273]: 国家和地区
+                - generic [ref=e277]:
+                  - generic [ref=e279]:
+                    - generic [ref=e280]: "0"
+                    - text: +
+                  - paragraph [ref=e281]: 国际专线
+            - generic [ref=e285]:
+              - generic [ref=e288]:
+                - img "中转隐身" [ref=e290]
+                - generic [ref=e291]:
+                  - heading "中转隐身" [level=5] [ref=e292]
+                  - paragraph [ref=e293]: 使用中转服务器防止第三方跟踪
+              - generic [ref=e295]:
+                - generic [ref=e297]: 
+                - generic [ref=e298]:
+                  - heading "灵活方案" [level=5] [ref=e299]
+                  - paragraph [ref=e300]: 多种方案适用不同使用场景
+            - generic [ref=e305]:
+              - generic [ref=e308]:
+                - img "管家服务" [ref=e310]
+                - generic [ref=e311]:
+                  - heading "管家服务" [level=5] [ref=e312]
+                  - paragraph [ref=e313]: 7/24专享管家贴身服务
+              - generic [ref=e315]:
+                - generic [ref=e317]: Z
+                - generic [ref=e318]:
+                  - heading "透明计费" [level=5] [ref=e319]
+                  - paragraph [ref=e320]: 数据统计透明让你放心使用
+            - generic [ref=e325]:
+              - generic [ref=e328]:
+                - img "跨平台支持" [ref=e330]
+                - generic [ref=e331]:
+                  - heading "跨平台支持" [level=5] [ref=e332]
+                  - paragraph [ref=e333]: 支持多端设备同时使用
+              - generic [ref=e335]:
+                - generic [ref=e337]: 
+                - generic [ref=e338]:
+                  - heading "多地接入" [level=5] [ref=e339]
+                  - paragraph [ref=e340]: 自由选择多个地区节点接入服务
+          - generic [ref=e348]:
+            - generic [ref=e349]: 灵活的购买方案
+            - heading "选择一个 适合您的方案" [level=3] [ref=e350]:
+              - text: 选择一个
+              - text: 适合您的方案
+          - generic [ref=e352]:
+            - generic [ref=e355]:
+              - generic [ref=e361]:
+                - heading "个人套餐" [level=5] [ref=e363]
+                - generic [ref=e364]:
+                  - generic [ref=e365]: ¥17
+                  - generic [ref=e366]: 月付
+                - generic [ref=e367]: 适合超轻度使用服务的用户
+                - list [ref=e369]:
+                  - listitem [ref=e370]:
+                    - img [ref=e372]
+                    - text: 每月 100 GB 可用流量
+                  - listitem [ref=e374]:
+                    - img [ref=e376]
+                    - text: 高性能全球专线连接
+                  - listitem [ref=e378]:
+                    - img [ref=e380]
+                    - text: 稳定全球AI支持
+                  - listitem [ref=e382]:
+                    - img [ref=e384]
+                    - text: 快速客服响应
+                  - listitem [ref=e386]:
+                    - img [ref=e388]
+                    - text: 不限制设备数量
+                - link "立即购买 " [ref=e390] [cursor=pointer]:
+                  - /url: https://www.cocoduck.live/auth/register?code=8c1073605d
+                  - text: 立即购买
+                  - generic [ref=e391]: 
+              - paragraph [ref=e395]: "* 年付仅需¥170元"
+            - generic [ref=e398]:
+              - generic [ref=e404]:
+                - heading "精英套餐" [level=5] [ref=e406]
+                - generic [ref=e407]:
+                  - generic [ref=e408]: ¥31
+                  - generic [ref=e409]: 月付
+                - generic [ref=e410]: 适合轻度使用服务的用户
+                - list [ref=e412]:
+                  - listitem [ref=e413]:
+                    - img [ref=e415]
+                    - text: 每月 200 GB 可用流量
+                  - listitem [ref=e417]:
+                    - img [ref=e419]
+                    - text: 高性能全球专线连接
+                  - listitem [ref=e421]:
+                    - img [ref=e423]
+                    - text: 稳定全球AI支持
+                  - listitem [ref=e425]:
+                    - img [ref=e427]
+                    - text: 快速客服响应
+                  - listitem [ref=e429]:
+                    - img [ref=e431]
+                    - text: 不限制设备数量
+                - link "立即购买 " [ref=e433] [cursor=pointer]:
+                  - /url: https://www.cocoduck.live/auth/register?code=8c1073605d
+                  - text: 立即购买
+                  - generic [ref=e434]: 
+              - paragraph [ref=e438]: "* 年付仅需¥310元"
+            - generic [ref=e441]:
+              - generic [ref=e447]:
+                - heading "家庭套餐" [level=5] [ref=e449]
+                - generic [ref=e450]:
+                  - generic [ref=e451]: ¥75
+                  - generic [ref=e452]: 月付
+                - generic [ref=e453]: 适合重度使用服务的用户
+                - list [ref=e455]:
+                  - listitem [ref=e456]:
+                    - img [ref=e458]
+                    - text: 每月 500 GB 可用流量
+                  - listitem [ref=e460]:
+                    - img [ref=e462]
+                    - text: 高性能全球专线连接
+                  - listitem [ref=e464]:
+                    - img [ref=e466]
+                    - text: 稳定全球AI支持
+                  - listitem [ref=e468]:
+                    - img [ref=e470]
+                    - text: 快速客服响应
+                  - listitem [ref=e472]:
+                    - img [ref=e474]
+                    - text: 不限制设备数量
+                - link "立即购买 " [ref=e476] [cursor=pointer]:
+                  - /url: https://www.cocoduck.live/auth/register?code=8c1073605d
+                  - text: 立即购买
+                  - generic [ref=e477]: 
+              - paragraph [ref=e481]: "* 年付仅需¥750元"
+          - generic [ref=e549]:
+            - generic [ref=e552]:
+              - generic [ref=e554]:
+                - generic [ref=e555]: 开通您的账户
+                - heading "现在开始体验 COCODUCK" [level=3] [ref=e556]:
+                  - text: 现在开始体验
+                  - text: COCODUCK
+              - paragraph [ref=e558]:
+                - text: 更快，更稳定，更安全
+                - text: 套餐计划低至6.41元/月起
+              - link "免费体验" [ref=e561] [cursor=pointer]:
+                - /url: https://www.cocoduck.live/auth/register?code=8c1073605d
+                - text: 免费体验
+                - img [ref=e563]
+            - figure [ref=e570]
+    - contentinfo [ref=e572]:
+      - generic [ref=e574]:
+        - list [ref=e576]:
+          - listitem
+          - listitem [ref=e577]:
+            - link "COCODUCK" [ref=e580] [cursor=pointer]:
+              - /url: https://cocoduck.cc/
+              - img "COCODUCK" [ref=e581]
+        - list [ref=e583]:
+          - listitem [ref=e584]:
+            - heading "使用教程" [level=3] [ref=e585]
+            - link "iOS" [ref=e587] [cursor=pointer]:
+              - /url: https://cocoduck.cc/docs/shadowrocket/
+            - link "Android" [ref=e589] [cursor=pointer]:
+              - /url: https://cocoduck.cc/docs/clash-for-android/
+            - link "Windows" [ref=e591] [cursor=pointer]:
+              - /url: https://cocoduck.cc/docs/clashverge/
+            - link "MacOS" [ref=e593] [cursor=pointer]:
+              - /url: https://cocoduck.cc/docs/clash-verge-for-macos/
+        - list [ref=e595]:
+          - listitem [ref=e596]:
+            - heading "关于我们" [level=3] [ref=e597]
+            - link "服务条款" [ref=e599] [cursor=pointer]:
+              - /url: https://cocoduck.cc/docs/tos/
+            - link "隐私政策" [ref=e601] [cursor=pointer]:
+              - /url: https://cocoduck.cc/docs/privacy-policy/
+          - listitem:
+            - paragraph
+        - list [ref=e603]:
+          - listitem [ref=e604]:
+            - heading "合作咨询" [level=3] [ref=e605]
+            - text: "把天赋带到COCODUCK:"
+            - link "partner@cocoduck.cc" [ref=e607] [cursor=pointer]:
+              - /url: mailto:partner@cocoduck.cc
+      - generic [ref=e612]:
+        - generic [ref=e613]: © 2020 COCODUCK. Made with love in Beautiful BC.
+        - generic [ref=e614]: All rights reserved.
+  - img [ref=e616]

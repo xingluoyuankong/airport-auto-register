@@ -1,0 +1,8 @@
+{
+  "airport": "FLYBIT",
+  "panel": "flybit.vip",
+  "system": "V2Board+NaiveUI",
+  "email": "mx40f8e7ef94@outlook.com",
+  "password": "VpnTest2026!",
+  "subscribe_url": "{\"status\":\"success\",\"message\":\"\\u64cd\\u4f5c\\u6210\\u529f\",\"data\":{\"plan_id\":10,\"token\":\"7ab655249af40cae85c5caf38a45fa4f\",\"expired_at\":1782754304,\"u\":0,\"d\":0,\"transfer_enable\":2147483648,\"email\":\"mx40f8e7ef94@outlook.com\",\"uuid\":\"2f615fa9-0a5d-49c3-a164-5876fc10e284\",\"device_limit\":null,\"speed_limit\":null,\"next_reset_at\":null,\"plan\":{\"id\":10,\"group_id\":1,\"transfer_enable\":2,\"name\":\"\\u6d4b\\u8bd5\\u4f53\\u9a8c\",\"prices\":{\"monthly\":0},\"sell\":0,\"speed_limit\":null,\"device_limit\":null,\"show\":false,\"sort\":9,\"renew\":false,\"content\":null,\"tags\":null,\"reset_traffic_method\":2,\"capacity_limit\":null,\"created_at\":1722515470,\"updated_at\":1753212594},\"subscribe_url\":\"https:\\/\\/s.fb.22na.cn\\/api\\/v1\\/ss\\/7ab655249af40cae85c5caf38a45fa4f\",\"reset_day\":null},\"error\":null}"
+}

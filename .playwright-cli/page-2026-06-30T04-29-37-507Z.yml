@@ -1,0 +1,26 @@
+- main [ref=e4]:
+  - generic [ref=e5]:
+    - heading "注册账号" [level=1] [ref=e6]
+    - paragraph [ref=e7]: 使用邮箱验证码创建账号。
+  - generic [ref=e9]:
+    - generic [ref=e10]:
+      - generic [ref=e11]: 邮箱
+      - generic [ref=e12]:
+        - textbox "your@email.com" [ref=e13]: mxih36u8zfmxj42v75fid@outlook.com
+        - button "60s" [disabled] [ref=e29]
+    - generic [ref=e15]:
+      - generic [ref=e16]: 邮箱验证码
+      - textbox [ref=e17]
+    - generic [ref=e18]:
+      - generic [ref=e19]: 密码
+      - textbox [ref=e20]: VpnTest2026!
+    - generic [ref=e21]:
+      - generic [ref=e22]: 确认密码
+      - textbox [ref=e23]: VpnTest2026!
+    - paragraph [ref=e30]: 验证码已发送，请查看邮箱。
+    - button "注册" [ref=e25] [cursor=pointer]:
+      - generic [ref=e26]: 注册
+  - paragraph [ref=e27]:
+    - text: 已有账号？
+    - link "直接登录" [ref=e28] [cursor=pointer]:
+      - /url: https://a.aiguobit.com/users/login

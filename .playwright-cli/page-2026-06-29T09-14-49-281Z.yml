@@ -1,0 +1,36 @@
+- main [ref=e36]:
+  - generic [ref=e41]:
+    - generic [ref=e44]:
+      - generic [ref=e45]:
+        - link "大哥云" [ref=e46] [cursor=pointer]:
+          - /url: javascript:void(0);
+        - paragraph [ref=e47]: 遇到问题可发工单处理 - 126
+      - generic [ref=e48]:
+        - generic [ref=e49]:
+          - textbox "邮箱" [ref=e50]
+          - combobox [ref=e51]:
+            - option "@qq.com" [selected]
+            - option "@gmail.com"
+            - option "@163.com"
+            - option "@yahoo.com"
+            - option "@sina.com"
+            - option "@126.com"
+            - option "@yeah.net"
+            - option "@foxmail.com"
+            - option "@outlook.com"
+        - textbox "密码" [ref=e53]
+        - textbox "密码" [ref=e55]
+        - textbox "邀请码(选填)" [ref=e57]
+        - generic [ref=e58]:
+          - textbox "验证码" [ref=e60]
+          - img "点击刷新" [ref=e62] [cursor=pointer]
+        - button "注册" [ref=e64] [cursor=pointer]:
+          - generic [ref=e65]:
+            - generic [ref=e66]: 
+            - text: 注册
+    - generic [ref=e67]:
+      - link "返回登入" [ref=e68] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - generic [ref=e69] [cursor=pointer]:
+        - generic [ref=e70]: 
+        - text: 简体中文

@@ -1,0 +1,11 @@
+
+=== 2026-06-28 19:37 ===
+# No subscriptions collected in this run
+
+=== NanoCloud 2026-06-28 19:39 ===
+# NanoCloud-360buy: registered=False notes=
+# NanoCloud-yuque: registered=False notes=
+
+=== NanoCloud 2026-06-28 19:41 ===
+# NanoCloud-360buy: reg=False ['Still on register page - check validation errors']
+# NanoCloud-yuque: reg=False ['Still on register page - check validation errors']

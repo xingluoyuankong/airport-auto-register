@@ -1,0 +1,26 @@
+============================================================
+  TANZCLOUD v2 注册机 (Geetest突破版)
+  邮箱: mx4496f269fa@hotmail.com
+============================================================
+
+[1/5] 加载注册页...
+  标题: 注册 — 飞毯加速
+[2/5] 填表...
+[3/5] Geetest突破...
+  开始突破Geetest...
+  [Geetest] 第1次尝试...
+    滑块: .geetest_slider_button
+  异常: Page.evaluate() takes from 2 to 3 positional arguments but 4 were given
+Traceback (most recent call last):
+  File "E:\API��ȡ����\�Զ�������Ѵ�������\01-����VPNע���\register_tanzcloud_v2.py", line 129, in main
+    solved = solver.solve_slider(page, max_retries=3)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\API��ȡ����\�Զ�������Ѵ�������\01-����VPNע���\geetest_solver.py", line 200, in solve_slider
+    bg_data = self._extract_captcha_images(page)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\API��ȡ����\�Զ�������Ѵ�������\01-����VPNע���\geetest_solver.py", line 29, in _extract_captcha_images
+    bg_data = page.evaluate("""(bgSel, sliceSel) => {
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Page.evaluate() takes from 2 to 3 positional arguments but 4 were given
+
+  注册失败

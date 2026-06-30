@@ -1,0 +1,56 @@
+[
+  {
+    "name": "NanoCloud",
+    "status": "DEAD"
+  },
+  {
+    "name": "v2free",
+    "status": "FILL_ERROR",
+    "error": "'Locator' object has no attribute 'or_else'"
+  },
+  {
+    "name": "TNTCloud",
+    "status": "NO_EMAIL_FIELD"
+  },
+  {
+    "name": "小蜜蜂",
+    "status": "DEAD"
+  },
+  {
+    "name": "青云梯",
+    "status": "NO_EMAIL_FIELD"
+  },
+  {
+    "name": "FSCloud",
+    "status": "DEAD",
+    "error": "Page.goto: net::ERR_CONNECTION_CLOSED at https://dash.fsclou"
+  },
+  {
+    "name": "一元机场",
+    "status": "NO_EMAIL_FIELD"
+  },
+  {
+    "name": "69yun",
+    "status": "FILL_ERROR",
+    "error": "'Locator' object has no attribute 'or_else'"
+  },
+  {
+    "name": "GLaDOS",
+    "status": "CF_BLOCKED"
+  },
+  {
+    "name": "SSRDOG",
+    "status": "DEAD",
+    "error": "Page.goto: net::ERR_CONNECTION_CLOSED at https://ssrdog.com/"
+  },
+  {
+    "name": "悠兔",
+    "status": "DEAD",
+    "error": "Page.goto: net::ERR_CONNECTION_CLOSED at https://youtushop.c"
+  },
+  {
+    "name": "Naiu",
+    "status": "DEAD",
+    "error": "Page.goto: net::ERR_CONNECTION_CLOSED at https://www.naiu.on"
+  }
+]
